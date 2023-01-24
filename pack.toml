@@ -1,0 +1,13 @@
+name = "KenziePack"
+author = "KenzieMac130"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "53fba575272e0cc076d4a1f5babe6df3d3ea015457abe745e2cc40e41c3cde2f"
+
+[versions]
+fabric = "0.14.13"
+minecraft = "1.19.2"
