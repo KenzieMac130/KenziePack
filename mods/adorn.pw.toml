@@ -1,0 +1,13 @@
+name = "Adorn"
+filename = "Adorn-3.8.1+1.19.2-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/E6FUtRJh/versions/E0HCy6sV/Adorn-3.8.1%2B1.19.2-fabric.jar"
+hash-format = "sha1"
+hash = "8fb29854a5f37f0cc69c251b621977fb842b5efb"
+
+[update]
+[update.modrinth]
+mod-id = "E6FUtRJh"
+version = "E0HCy6sV"
