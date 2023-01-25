@@ -5,6 +5,11 @@ file = "README.md"
 hash = "df51cf59648a06d6389d9b10f359eaf499c6c03759d86557fe3283dcc0b540fa"
 
 [[files]]
+file = "mods/ad-astra.pw.toml"
+hash = "8c2934e1be8c9a6723de7727107d587712e72c599cd22b7ca7f279a3d6281770"
+metafile = true
+
+[[files]]
 file = "mods/addadd.pw.toml"
 hash = "21d4c1c69be7ea0f9200ab3129fce65f560381618e5565fcaaf52ec02a0b3a48"
 metafile = true
@@ -22,6 +27,21 @@ metafile = true
 [[files]]
 file = "mods/better-spawner-control.pw.toml"
 hash = "250af885004a7e74631b8f585ea0aeca9e74790ab6feb5f17eb959fd8006ea8a"
+metafile = true
+
+[[files]]
+file = "mods/bewitchment-plus.pw.toml"
+hash = "b26e6787d3c454bb05a40aaba03312550be330034c61d6ff7dc9a18e9515d5bb"
+metafile = true
+
+[[files]]
+file = "mods/bewitchment.pw.toml"
+hash = "9d390f8378b38aa1ca9402721380827357552e12cff6c02cf272a9bfa8c39efa"
+metafile = true
+
+[[files]]
+file = "mods/botarium.pw.toml"
+hash = "ed2e23b38b2e862d187b8303903724995bc3c61ce54a72733f3c3792932c2b86"
 metafile = true
 
 [[files]]
@@ -66,7 +86,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "c3539f5c0d32666566b8cae83d8ff5ea39d07e1b3a70a43f40aeb8f656f75d72"
+hash = "07e64d3e428ff4cc5cfb7fb6aff46d78b49707f13f1a7029d18c64729619e471"
 metafile = true
 
 [[files]]
@@ -82,6 +102,11 @@ metafile = true
 [[files]]
 file = "mods/geckolib.pw.toml"
 hash = "384a78b98bfbb6c81918c9faec31e1d74053d451bb519b6428655d12c0e3dffc"
+metafile = true
+
+[[files]]
+file = "mods/haema.pw.toml"
+hash = "a6d33ea9e4e397017d8ac6044860975cbde7a68025d5021e07589ba421d3cac7"
 metafile = true
 
 [[files]]
@@ -135,6 +160,11 @@ hash = "ec2e01258ac91cd8a753b776bfe1e01ad7dacfedbbff19fb4eec779bb10cf4aa"
 metafile = true
 
 [[files]]
+file = "mods/mob-captains.pw.toml"
+hash = "88d1658e598887f005855808d6cefa786c4e33a1702eac3fe480206650fdea9a"
+metafile = true
+
+[[files]]
 file = "mods/modmenu.pw.toml"
 hash = "09eb7db3ca7778d91ad66845e41b6b4814655fe375a05d4a69528c74b4f1c8af"
 metafile = true
@@ -150,6 +180,21 @@ hash = "743a204dbcc45577079c9416c609bc2a5bc0f229b58b2c6c1ab36aae88b5a1ea"
 metafile = true
 
 [[files]]
+file = "mods/nyfs-spiders.pw.toml"
+hash = "d02faadb0665db5f148eb7a5bcb817221a139b42d1437231e1def2f06a452bce"
+metafile = true
+
+[[files]]
+file = "mods/patchouli-fabric.pw.toml"
+hash = "0103115337ebe895bb4802a4de51d9ea8f130112581b9cdf28ed3abee59d50de"
+metafile = true
+
+[[files]]
+file = "mods/pehkui.pw.toml"
+hash = "ef1b4a441c1f88eb1bb320da4ceb47c8cfc36b53edfd126e8b79eabfe162a14c"
+metafile = true
+
+[[files]]
 file = "mods/phosphor.pw.toml"
 hash = "466d5892937df5aa05388291463b163b42fa454d8bfd22713484a0167ca3702d"
 metafile = true
@@ -162,6 +207,16 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "b2e3be698473bfb3f08865a11e74c9ee8d47239ac72a79d60acc1ee381722a50"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-config.pw.toml"
+hash = "60eff3efa4c72b6ba8eecdc8a5072d03dd02b791f9b01bbc5b518e7e1b9bd30d"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-lib.pw.toml"
+hash = "b8a7848d058a838ed12889cc4005234d4feaf350343ad14f351004d4d25d9c2b"
 metafile = true
 
 [[files]]
@@ -182,4 +237,9 @@ metafile = true
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
 hash = "08d9f157fea976ba8e7a20ebfce995fe5419ebddf581fcdab079aaceb33053e3"
+metafile = true
+
+[[files]]
+file = "mods/trinkets.pw.toml"
+hash = "bbd4ba6c9d65822511fcb47417a613481337b11f4fa0ec85080e823bc0c1b662"
 metafile = true
