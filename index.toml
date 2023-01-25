@@ -85,8 +85,13 @@ hash = "bd52ab27068961afc53efd50c527302775b87fb176d10779e0d6a0428dcc51e4"
 metafile = true
 
 [[files]]
+file = "mods/elemental-creepers-refabricated.pw.toml"
+hash = "8103feb9f84d9bb00c10fd7903e5d7b8b540a0a87ffcf94f106a1168e9f1ad3f"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "07e64d3e428ff4cc5cfb7fb6aff46d78b49707f13f1a7029d18c64729619e471"
+hash = "c3539f5c0d32666566b8cae83d8ff5ea39d07e1b3a70a43f40aeb8f656f75d72"
 metafile = true
 
 [[files]]
@@ -220,6 +225,11 @@ hash = "b8a7848d058a838ed12889cc4005234d4feaf350343ad14f351004d4d25d9c2b"
 metafile = true
 
 [[files]]
+file = "mods/rottencreatures.pw.toml"
+hash = "3695e7bbeed755d9f746f114dd5329e854b2ceecf39bab90844427a083c269ce"
+metafile = true
+
+[[files]]
 file = "mods/roughly-enough-items.pw.toml"
 hash = "accb90f4206f72fb32cd56c55eee18829033bf3972eeb90575e2aaf61979c6e1"
 metafile = true
@@ -237,6 +247,11 @@ metafile = true
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
 hash = "08d9f157fea976ba8e7a20ebfce995fe5419ebddf581fcdab079aaceb33053e3"
+metafile = true
+
+[[files]]
+file = "mods/stray-spawn.pw.toml"
+hash = "cb447b19a828dee4b16d604e0726165634a1eb1134e1790956cf8979ebf22557"
 metafile = true
 
 [[files]]
