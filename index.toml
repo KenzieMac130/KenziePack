@@ -100,6 +100,16 @@ hash = "c985bc9064cc29094fdfd59a037baa1523778cc2a9e5665c3f1b6ca0efe6a543"
 metafile = true
 
 [[files]]
+file = "mods/farmers-delight-fabric.pw.toml"
+hash = "b8d91a91ac8820ed7c99c12636c7de0a3e93ef825c1925d4a9287b443cd65f92"
+metafile = true
+
+[[files]]
+file = "mods/farmers-knives.pw.toml"
+hash = "3227076500fcb4b964d1fc1e1718151b5890b167977168aba98d49ddf895b897"
+metafile = true
+
+[[files]]
 file = "mods/friends-and-foes.pw.toml"
 hash = "b4537307f5199ed64e8af3ba0f4f8ce8dfc4ce0da66fc1bf5e39943de922f581"
 metafile = true
@@ -155,8 +165,23 @@ hash = "de55e473653cdd5046f3f79220f6aa9d1cf0eccfe97e8902c72935d0bbb0272e"
 metafile = true
 
 [[files]]
+file = "mods/lotta-blocks.pw.toml"
+hash = "162458923aea59d61d04b22ea693e89e9364938b35a8e36b2311ec86f6b10e21"
+metafile = true
+
+[[files]]
 file = "mods/malilib.pw.toml"
 hash = "3926d859126491c673d921c3f3f93316766689ff0694f83d82255ec4776d3c74"
+metafile = true
+
+[[files]]
+file = "mods/mavapi.pw.toml"
+hash = "a6c66745ff4e44c84d89d2bffe88413d0209252392ee9f7776aba3c30e8b9de9"
+metafile = true
+
+[[files]]
+file = "mods/mavm.pw.toml"
+hash = "1666b7be35ee758e442f14c9f2eb21253b68447c89a1b6efe473c29c43884a47"
 metafile = true
 
 [[files]]
@@ -252,6 +277,11 @@ metafile = true
 [[files]]
 file = "mods/stray-spawn.pw.toml"
 hash = "cb447b19a828dee4b16d604e0726165634a1eb1134e1790956cf8979ebf22557"
+metafile = true
+
+[[files]]
+file = "mods/terrarian-slimes.pw.toml"
+hash = "8f297c2b27eb184abfd9d6338a483e631ab439eefde151fe1684fc15886dc620"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "Lotta Blocks"
+filename = "lottablocks-0.0.5-1.19.x.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/f0DV6rGK/versions/I71C4g0M/lottablocks-0.0.5-1.19.x.jar"
+hash-format = "sha1"
+hash = "8d37103d111332953b388e2e6bfb4ed33323854a"
+
+[update]
+[update.modrinth]
+mod-id = "f0DV6rGK"
+version = "I71C4g0M"
