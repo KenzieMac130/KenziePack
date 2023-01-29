@@ -9,6 +9,34 @@ file = "config/WildlifeConfig.json"
 hash = "9d5304ab049cf1de2fb24a05439754b89baba61867549e7ff6c84251752647fe"
 
 [[files]]
+file = "config/bclib/biomes.json"
+hash = "f1e9a9ea4656ebfb55eb097a141c14e4f28676fb08d61e854ea2764860f897e8"
+
+[[files]]
+file = "config/bclib/cache.json"
+hash = "66a151dbf2123ba09e0ec7c3aade37066dc98c153b692b20df7844c5a44c60b3"
+
+[[files]]
+file = "config/bclib/client.json"
+hash = "99742225d80d5fd860255033d9cc9c22cfd8a52a4952597688e3708e8a37e7d9"
+
+[[files]]
+file = "config/bclib/generator.json"
+hash = "218542dbc05094a216da6161849a631c4fd770cf5364395d521e15e00240e0bf"
+
+[[files]]
+file = "config/bclib/main.json"
+hash = "6c374c2361f59dbbace6322200613773ec01d5fb6e8fb70ac5d89463e3631f05"
+
+[[files]]
+file = "config/bclib/recipes.json"
+hash = "2b6500d3a812ee56ea3bd52a62e437ac1aa06f8c3d9a248fb4b51a653918083f"
+
+[[files]]
+file = "config/bclib/server.json"
+hash = "a747a0bb0548ef3b677671e5e60ac931bb2a45c212bfdb9a8b180cddb068ee87"
+
+[[files]]
 file = "config/betterend/biomes.json"
 hash = "da69412d15c9fab5026c0021565163db734b38b175e7b4ddd5aebd219cff9b14"
 
@@ -75,6 +103,22 @@ hash = "7bb1d5635f9730f2f4bc7d9d3faecc8b56c141e32e1c86ed7232d899d84b5897"
 [[files]]
 file = "config/byg/biomepedia.json5"
 hash = "d9b7c4d1b5445c9b34618918f94f190e2f9dd5312ae1e241e11ac796edf7e31c"
+
+[[files]]
+file = "config/minihud/betterx_begin.json"
+hash = "7d379de5ad06b4471e4b7e62970340437662e77453dd1bacb3bc90f975403464"
+
+[[files]]
+file = "config/minihud/betterx_begin_dim_minecraft_overworld.json"
+hash = "605aff7105ee1307b8505dfceecb5ee5da616f3f39dbf9e853f5bb34df66811c"
+
+[[files]]
+file = "config/minihud/betterx_begin_dim_minecraft_the_end.json"
+hash = "dd81d0abfde5de7a306ad024b0e6dc984435eb7f14502199cff365a767dbfb2c"
+
+[[files]]
+file = "config/minihud/betterx_begin_dim_minecraft_the_nether.json"
+hash = "dd81d0abfde5de7a306ad024b0e6dc984435eb7f14502199cff365a767dbfb2c"
 
 [[files]]
 file = "config/modmenu.json"
