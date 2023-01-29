@@ -1,0 +1,13 @@
+name = "Rhino"
+filename = "rhino-fabric-1902.2.2-build.264.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/sk9knFPE/versions/7nlytiXr/rhino-fabric-1902.2.2-build.264.jar"
+hash-format = "sha1"
+hash = "c9225d19f74cb7b999ddfa9f278f6906ef143ce0"
+
+[update]
+[update.modrinth]
+mod-id = "sk9knFPE"
+version = "7nlytiXr"

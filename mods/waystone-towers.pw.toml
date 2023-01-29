@@ -1,0 +1,13 @@
+name = "Waystone Towers"
+filename = "waystone_towers-1.19.2-FABRIC-1.0.8.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/azBgcZIk/versions/flBvxHGE/waystone_towers-1.19.2-FABRIC-1.0.8.jar"
+hash-format = "sha1"
+hash = "cba26ca4f4d04289a6b057d8ea17a48ae69efe7f"
+
+[update]
+[update.modrinth]
+mod-id = "azBgcZIk"
+version = "flBvxHGE"

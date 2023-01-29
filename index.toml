@@ -5,6 +5,122 @@ file = "README.md"
 hash = "df51cf59648a06d6389d9b10f359eaf499c6c03759d86557fe3283dcc0b540fa"
 
 [[files]]
+file = "config/WildlifeConfig.json"
+hash = "9d5304ab049cf1de2fb24a05439754b89baba61867549e7ff6c84251752647fe"
+
+[[files]]
+file = "config/betterend/biomes.json"
+hash = "da69412d15c9fab5026c0021565163db734b38b175e7b4ddd5aebd219cff9b14"
+
+[[files]]
+file = "config/betterend/blocks.json"
+hash = "528a8c95935ceaf12f530d8151d17bb79e1526245390ad10e3baa0631c90d73a"
+
+[[files]]
+file = "config/betterend/client.json"
+hash = "9fe05edf2b6cfaa5573d1dc6debf01181a663f0ffda407c8b3f05d2ef87e56eb"
+
+[[files]]
+file = "config/betterend/enchantments.json"
+hash = "fe93e79aff2fc28279544d8578bc01206964d94cd404c9845ebe871128196803"
+
+[[files]]
+file = "config/betterend/entities.json"
+hash = "c88c23c520341d800c6403788d500a2c8db1eebf1cb3920f9809b31f00e6558b"
+
+[[files]]
+file = "config/betterend/generator.json"
+hash = "564c1d7ef5b6adaeec9e7024147316c6448fcc4e97dab5391870440d0237c718"
+
+[[files]]
+file = "config/betterend/items.json"
+hash = "7cc2f9e173f3be65d3b360fc13949f0f9b51f2365699431d459f4ac58b0f418b"
+
+[[files]]
+file = "config/betterend/portals.json"
+hash = "c0900ca41e9721a30bf49f00762f9fb80367908cd668d5c32ab2816e61ff51d7"
+
+[[files]]
+file = "config/betterend/recipes.json"
+hash = "afe5e5b2b60e1c806b27ebfdc470cf6457963a58b9ab06a47d86a9b71cd63be5"
+
+[[files]]
+file = "config/betternether/biomes.json"
+hash = "ea347fdb963be3fe83fd9ba0b60a09e51267bcaa0216631d82ff0c086b5a69f6"
+
+[[files]]
+file = "config/betternether/blocks.json"
+hash = "6ee9e669d43c4233c81f55a4f629555a7e8808a5adcd79de319af4f0e7fc1389"
+
+[[files]]
+file = "config/betternether/generator.json"
+hash = "787e6999e46c43c90f3ff5f13fb3d061e78949304d7c490ce6053056b2f2e1e0"
+
+[[files]]
+file = "config/betternether/items.json"
+hash = "7107e15255eae424998a95c29b4bb7f9eae318bf6b6a518af02657d167fcbf92"
+
+[[files]]
+file = "config/betternether/main.json"
+hash = "6d4f1aa22a4c974936e5e6924d644f1755fd995a87092e99e113bdd494371f02"
+
+[[files]]
+file = "config/betternether/mobs.json"
+hash = "6ce59f333ede885d055ee3fb3164f38cb609843ce279d00b4bba0d2a73347a5a"
+
+[[files]]
+file = "config/betternether/recipes.json"
+hash = "7bb1d5635f9730f2f4bc7d9d3faecc8b56c141e32e1c86ed7232d899d84b5897"
+
+[[files]]
+file = "config/byg/biomepedia.json5"
+hash = "d9b7c4d1b5445c9b34618918f94f190e2f9dd5312ae1e241e11ac796edf7e31c"
+
+[[files]]
+file = "config/modmenu.json"
+hash = "ce8bd092087ff2baf6c8789adf03b35d16471b18cde0f299ae4589f0e18d7dc3"
+
+[[files]]
+file = "config/openloader/advanced_options.json"
+hash = "97c64147276f55cad728249dd77602661e2327fa178aeb8e0db12866df448211"
+
+[[files]]
+file = "config/openloader/resources/KenziePackAssets.zip"
+hash = "3cd12dcfa33a5ee24b81512d6dcebf6c1eab46c85ccc836ec28e89fc6de625a5"
+
+[[files]]
+file = "config/waystones.toml"
+hash = "07c256bfc331ae60a6b0dc764622a783dc538e6496ee6bc5da48660dbc08353e"
+
+[[files]]
+file = "kubejs/README.txt"
+hash = "02d6feb3afe1d9c96e137f8baaa71de982f1af0a2b37fbcba73f34ee59ebbd4d"
+
+[[files]]
+file = "kubejs/client_scripts/script.js"
+hash = "f13d83247438d5d46fc7585a1f2ba66c0409487e0a16e3f2e58249e3df90e903"
+
+[[files]]
+file = "kubejs/config/client.properties"
+hash = "79f29f576cfdd1e82537440699069fc29c8a0a04471b56e4439c591dc8442a12"
+
+[[files]]
+file = "kubejs/config/common.properties"
+hash = "0afa9d2c0eb396eea429c28253cee42206f7ff42ce4d25b3845c667b06cb119d"
+
+[[files]]
+file = "kubejs/data/ad_astra/worldgen/structure_set/oil_well.json"
+hash = "00c4e5d4837cf8ae8e83853f8338b2102ec025d7e892a3557dfb9dc36036fddd"
+
+[[files]]
+file = "kubejs/server_scripts/script.js"
+hash = "57cc7de58b2811a8376e8df946ad3b2f3b5945c350e33fff7e21bfb9cf39a3c9"
+
+[[files]]
+file = "kubejs/startup_scripts/script.js"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
 file = "mods/ad-astra.pw.toml"
 hash = "8c2934e1be8c9a6723de7727107d587712e72c599cd22b7ca7f279a3d6281770"
 metafile = true
@@ -22,6 +138,11 @@ metafile = true
 [[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "808c30194a90fce3a57ba82e92333518f3a14a5fdb69c84b5fac247e46557632"
+metafile = true
+
+[[files]]
+file = "mods/balm.pw.toml"
+hash = "7c5c3e69f7d2abcde972efc46603be697818d834f28e94bbdb4fd5ee565c1c9a"
 metafile = true
 
 [[files]]
@@ -70,6 +191,11 @@ hash = "e351f40305f1377a4023c09e774d040e601d513bd37e307955b2f68e986a612c"
 metafile = true
 
 [[files]]
+file = "mods/cave-enhancements.pw.toml"
+hash = "64861973d33a1cb44b1ab044001169fcd4302fb7ed80ce35ad576ab4ae1171c1"
+metafile = true
+
+[[files]]
 file = "mods/cc-restitched.pw.toml"
 hash = "6e8faa4779dca8bafd4cc91cad8f7fe425f6d3d08511463466c6c13b8ffa55dd"
 metafile = true
@@ -100,6 +226,21 @@ hash = "19783c9eb3f9c3a9522f47f11fa9b87dd62b64a42e52cadbdf9ce9d5c8d73d46"
 metafile = true
 
 [[files]]
+file = "mods/createaddition.pw.toml"
+hash = "c65f96adfcf4e320ca17a7d8eed555d045cc890f1e992215be177f41f8b547ac"
+metafile = true
+
+[[files]]
+file = "mods/ct-overhaul-village.pw.toml"
+hash = "3a39f2516623bc4ab7feccdabbe4fa35633c2531111a5436a670c902056d9d6c"
+metafile = true
+
+[[files]]
+file = "mods/cull-less-leaves.pw.toml"
+hash = "c06e098c6d6eda6da4492e4a8dff1796e6081bbd30f487ffb89e1ed3c485e805"
+metafile = true
+
+[[files]]
 file = "mods/ears.pw.toml"
 hash = "bd52ab27068961afc53efd50c527302775b87fb176d10779e0d6a0428dcc51e4"
 metafile = true
@@ -110,6 +251,11 @@ hash = "8103feb9f84d9bb00c10fd7903e5d7b8b540a0a87ffcf94f106a1168e9f1ad3f"
 metafile = true
 
 [[files]]
+file = "mods/emerald-geodes.pw.toml"
+hash = "4726b912f30d2344b412c3204204a8f740bc7605b0c715fe8a3673b6be5ee949"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "c3539f5c0d32666566b8cae83d8ff5ea39d07e1b3a70a43f40aeb8f656f75d72"
 metafile = true
@@ -117,6 +263,11 @@ metafile = true
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "c985bc9064cc29094fdfd59a037baa1523778cc2a9e5665c3f1b6ca0efe6a543"
+metafile = true
+
+[[files]]
+file = "mods/fallingleaves.pw.toml"
+hash = "423581d9738b23798456b7ba021698355ef8f03cef93d8c1266102a227d9a200"
 metafile = true
 
 [[files]]
@@ -132,6 +283,11 @@ metafile = true
 [[files]]
 file = "mods/friends-and-foes.pw.toml"
 hash = "b4537307f5199ed64e8af3ba0f4f8ce8dfc4ce0da66fc1bf5e39943de922f581"
+metafile = true
+
+[[files]]
+file = "mods/galosphere.pw.toml"
+hash = "e01465d529f5f8f94f641930ab7e872308eab9d554037f6eb43eaf212cf66c7b"
 metafile = true
 
 [[files]]
@@ -175,8 +331,18 @@ hash = "33022430ccfc723fa386c77650f70b2ad987e1e68fa8986e1de0d9778fafebd7"
 metafile = true
 
 [[files]]
+file = "mods/kubejs.pw.toml"
+hash = "6e06fcacd3d3b08a6623fb497876ea3028260379c64539fb8c82c251429e5f5d"
+metafile = true
+
+[[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "9b628c73b749c901f12ba08b8304c161801903b1dd3fdbb6d4b93a9d42d25afa"
+metafile = true
+
+[[files]]
+file = "mods/lootjs.pw.toml"
+hash = "3bbf2298e33233de0881c6403582502d8a05bed5e439968f7e109a80c297a316"
 metafile = true
 
 [[files]]
@@ -192,6 +358,11 @@ metafile = true
 [[files]]
 file = "mods/malilib.pw.toml"
 hash = "3926d859126491c673d921c3f3f93316766689ff0694f83d82255ec4776d3c74"
+metafile = true
+
+[[files]]
+file = "mods/map-atlases.pw.toml"
+hash = "393c6fc6f6b950fd5794034d9330372c62f217319031297d558326096a5209a4"
 metafile = true
 
 [[files]]
@@ -230,6 +401,11 @@ hash = "a7720df455042b8b3f24d90a3b21352049377a4066a06a0dec4759063be8b3df"
 metafile = true
 
 [[files]]
+file = "mods/morejs.pw.toml"
+hash = "f4392704077ed556f9d488a80339c2fa244a2ec8cf91af38bdf6709b84c4429a"
+metafile = true
+
+[[files]]
 file = "mods/no-hostiles-around-campfire.pw.toml"
 hash = "743a204dbcc45577079c9416c609bc2a5bc0f229b58b2c6c1ab36aae88b5a1ea"
 metafile = true
@@ -237,6 +413,11 @@ metafile = true
 [[files]]
 file = "mods/nyfs-spiders.pw.toml"
 hash = "d02faadb0665db5f148eb7a5bcb817221a139b42d1437231e1def2f06a452bce"
+metafile = true
+
+[[files]]
+file = "mods/open-loader.pw.toml"
+hash = "7e7a9fc6a8457d8b2c1ed8332cec6dadba305a25191a5aa0cb34ddd1623c8f72"
 metafile = true
 
 [[files]]
@@ -280,6 +461,11 @@ hash = "b8a7848d058a838ed12889cc4005234d4feaf350343ad14f351004d4d25d9c2b"
 metafile = true
 
 [[files]]
+file = "mods/rhino.pw.toml"
+hash = "b530e384695dc6a2af30a6383b46ec40f0823b64ac37189cfb155774d890fe4c"
+metafile = true
+
+[[files]]
 file = "mods/rottencreatures.pw.toml"
 hash = "3695e7bbeed755d9f746f114dd5329e854b2ceecf39bab90844427a083c269ce"
 metafile = true
@@ -315,13 +501,38 @@ hash = "d8811e747723a11a540557e9d602fe16fbbd55fdeb120342f008108f89e8226b"
 metafile = true
 
 [[files]]
+file = "mods/terralith.pw.toml"
+hash = "e50fbf20fc8c0a816f3325959a1ceab64c160b0b3bcc83f701ffdbfa771dad4b"
+metafile = true
+
+[[files]]
 file = "mods/terrarian-slimes.pw.toml"
 hash = "8f297c2b27eb184abfd9d6338a483e631ab439eefde151fe1684fc15886dc620"
 metafile = true
 
 [[files]]
+file = "mods/towns-and-towers.pw.toml"
+hash = "26d8e1910d9054354b5e8c55c97167a76a0266fe73279aa302d35d1c9a0aaf9b"
+metafile = true
+
+[[files]]
 file = "mods/trinkets.pw.toml"
 hash = "bbd4ba6c9d65822511fcb47417a613481337b11f4fa0ec85080e823bc0c1b662"
+metafile = true
+
+[[files]]
+file = "mods/waystone-towers.pw.toml"
+hash = "9a036ec0cdaa67a91e70545a2d8d5ad1dca5cbd37c5ad8334b3efee3d6fc6590"
+metafile = true
+
+[[files]]
+file = "mods/waystones.pw.toml"
+hash = "7469851e3fed3e9176d431c4da39acb4d0d815f0f1e2341d8621d6c96294a697"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "80bab11e8d1438ec93695050f087dc2f9d0ae1d2523a17b8236af7029f14119e"
 metafile = true
 
 [[files]]
@@ -352,6 +563,11 @@ metafile = true
 [[files]]
 file = "mods/yungs-better-strongholds.pw.toml"
 hash = "455bd61468b04ec66000901d5c112a97dabd3343f9e6d96ad3c148726e7c5bf8"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-witch-huts.pw.toml"
+hash = "14d7190f311125e364f288daabdcb92737164a26c9198a4e8901c718776f6fdd"
 metafile = true
 
 [[files]]

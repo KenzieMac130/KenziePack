@@ -1,0 +1,13 @@
+name = "MoreJS: KubeJS Addon"
+filename = "morejs-fabric-1.19.2-0.0.7.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/mo64mR1W/versions/BiRwHwrN/morejs-fabric-1.19.2-0.0.7.jar"
+hash-format = "sha1"
+hash = "c7cf3845c1934b97b99a1df5ef585342455c999c"
+
+[update]
+[update.modrinth]
+mod-id = "mo64mR1W"
+version = "BiRwHwrN"

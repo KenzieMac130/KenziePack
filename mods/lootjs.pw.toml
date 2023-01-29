@@ -1,0 +1,13 @@
+name = "LootJS: KubeJS Addon"
+filename = "lootjs-fabric-1.19.2-2.7.8.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/fJFETWDN/versions/f2PysaRK/lootjs-fabric-1.19.2-2.7.8.jar"
+hash-format = "sha1"
+hash = "913c0d0064f560b8a92f3bc5ff9235ef1a32d247"
+
+[update]
+[update.modrinth]
+mod-id = "fJFETWDN"
+version = "f2PysaRK"
