@@ -592,16 +592,6 @@ hash = "aa4dcf55ac3191b0b31437521714c1d28364c3396cf06ef07fa76a08488c1837"
 metafile = true
 
 [[files]]
-file = "mods/sort-extension.pw.toml"
-hash = "474ce94f3bbdbae0f18526086adf566260fc2bdab7e97db9076b5418df78d87a"
-metafile = true
-
-[[files]]
-file = "mods/sort.pw.toml"
-hash = "52bfb8baf1e2ada9b076faa8addefd732c0cd2fd408a2116f8ecfc9e96da4c08"
-metafile = true
-
-[[files]]
 file = "mods/sound-physics-remastered.pw.toml"
 hash = "08d9f157fea976ba8e7a20ebfce995fe5419ebddf581fcdab079aaceb33053e3"
 metafile = true
