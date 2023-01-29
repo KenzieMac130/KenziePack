@@ -105,10 +105,6 @@ file = "config/byg/README.txt"
 hash = "716925cf1fd06d3d981aac5adbdc7a84dae30dbb64b17b0c25a8f739be01883d"
 
 [[files]]
-file = "config/byg/backups/last_working_configs_backup.zip"
-hash = "083b32535fad2f95c69d476a33dfca49c137bfdbd62846307bbb213a0306bf18"
-
-[[files]]
 file = "config/byg/biomepedia.json5"
 hash = "d9b7c4d1b5445c9b34618918f94f190e2f9dd5312ae1e241e11ac796edf7e31c"
 
