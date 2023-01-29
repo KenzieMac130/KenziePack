@@ -491,6 +491,11 @@ hash = "c65f96adfcf4e320ca17a7d8eed555d045cc890f1e992215be177f41f8b547ac"
 metafile = true
 
 [[files]]
+file = "mods/crossstitch.pw.toml"
+hash = "27d8c96d3721eb06ad12bc963d99d50eb1f48fe4c6f19b6c39e8f92876a12e1b"
+metafile = true
+
+[[files]]
 file = "mods/ct-overhaul-village.pw.toml"
 hash = "3a39f2516623bc4ab7feccdabbe4fa35633c2531111a5436a670c902056d9d6c"
 metafile = true
