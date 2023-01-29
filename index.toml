@@ -401,6 +401,11 @@ hash = "a7720df455042b8b3f24d90a3b21352049377a4066a06a0dec4759063be8b3df"
 metafile = true
 
 [[files]]
+file = "mods/morechatsuggestions.pw.toml"
+hash = "95236362d682085fe7d78c10bc1a51e48248c62049fd17d8bc48c6ad71de80e0"
+metafile = true
+
+[[files]]
 file = "mods/morejs.pw.toml"
 hash = "f4392704077ed556f9d488a80339c2fa244a2ec8cf91af38bdf6709b84c4429a"
 metafile = true
@@ -528,6 +533,11 @@ metafile = true
 [[files]]
 file = "mods/waystones.pw.toml"
 hash = "7469851e3fed3e9176d431c4da39acb4d0d815f0f1e2341d8621d6c96294a697"
+metafile = true
+
+[[files]]
+file = "mods/weirdchat.pw.toml"
+hash = "fc4f419f08619139ea5c1d1734752a5649eeccc9c65446a49542b57b0b4d7c8a"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "MoreChatSuggestions"
+filename = "morechatsuggestions-1.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/zqkGIQsF/versions/wSh3T8fG/morechatsuggestions-1.0.2.jar"
+hash-format = "sha1"
+hash = "4d32842e33bb18b049cd998d5af221a2af0e8b20"
+
+[update]
+[update.modrinth]
+mod-id = "zqkGIQsF"
+version = "wSh3T8fG"
