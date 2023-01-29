@@ -1,0 +1,13 @@
+name = "Sort"
+filename = "Sort-1.0.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/3D0sXeHy/versions/OIQItj4h/Sort-1.0.2.jar"
+hash-format = "sha1"
+hash = "76a161869e230f6e0e6251dcd43400e22612f61b"
+
+[update]
+[update.modrinth]
+mod-id = "3D0sXeHy"
+version = "OIQItj4h"

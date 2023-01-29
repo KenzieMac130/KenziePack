@@ -105,6 +105,14 @@ file = "config/byg/biomepedia.json5"
 hash = "d9b7c4d1b5445c9b34618918f94f190e2f9dd5312ae1e241e11ac796edf7e31c"
 
 [[files]]
+file = "config/desktop.ini"
+hash = "6093feff97dd6a2afc6391c87abf76366fd3cbd51d58e02607c0551a13355a14"
+
+[[files]]
+file = "config/iris.properties"
+hash = "86aea8ed2a2a5508eb37589a3ad381bf79a9ba1178a3e3ca7398622d0d011f8c"
+
+[[files]]
 file = "config/minihud/betterx_begin.json"
 hash = "7d379de5ad06b4471e4b7e62970340437662e77453dd1bacb3bc90f975403464"
 
@@ -123,6 +131,10 @@ hash = "dd81d0abfde5de7a306ad024b0e6dc984435eb7f14502199cff365a767dbfb2c"
 [[files]]
 file = "config/modmenu.json"
 hash = "ce8bd092087ff2baf6c8789adf03b35d16471b18cde0f299ae4589f0e18d7dc3"
+
+[[files]]
+file = "config/nohostilesaroundcampfire.json5"
+hash = "40afbe53e78f83d614632b923b54e030a5ae45fe152692370794eec46126b05e"
 
 [[files]]
 file = "config/openloader/advanced_options.json"
@@ -189,8 +201,16 @@ file = "kubejs/data/ad_astra/worldgen/structure_set/oil_well.json"
 hash = "00c4e5d4837cf8ae8e83853f8338b2102ec025d7e892a3557dfb9dc36036fddd"
 
 [[files]]
+file = "kubejs/data/byg/advancements/biomepedia_gift.json"
+hash = "683acde8808b547efc83246af6e4fc86ac18534c16b3420afd86874cb3fff353"
+
+[[files]]
+file = "kubejs/data/terralith/functions/toast.mcfunction"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
 file = "kubejs/server_scripts/script.js"
-hash = "057922e342dd55133ce80802593eba3bab1e961f111f8b4e7301b3b0e9cc19f2"
+hash = "9bf4d07af86fcbde813f22f256c3953c79580bc40b2b19ce9fd80b8cc3cfdf7f"
 
 [[files]]
 file = "kubejs/startup_scripts/script.js"
@@ -392,6 +412,11 @@ hash = "e8168531c092676d47cac3657bfc525f096f11ff5372ce6e322ad57778b81635"
 metafile = true
 
 [[files]]
+file = "mods/inventory-sorting.pw.toml"
+hash = "9ec7fac40bbe6f5e496993422b10b9df982cbf9ad5f8631f1070476cbf20b5fe"
+metafile = true
+
+[[files]]
 file = "mods/iris.pw.toml"
 hash = "0bb13d0459be9af19faf40ea8e83b8bf29922b378dcbe9e430fc7de11d98dac3"
 metafile = true
@@ -564,6 +589,16 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "aa4dcf55ac3191b0b31437521714c1d28364c3396cf06ef07fa76a08488c1837"
+metafile = true
+
+[[files]]
+file = "mods/sort-extension.pw.toml"
+hash = "474ce94f3bbdbae0f18526086adf566260fc2bdab7e97db9076b5418df78d87a"
+metafile = true
+
+[[files]]
+file = "mods/sort.pw.toml"
+hash = "52bfb8baf1e2ada9b076faa8addefd732c0cd2fd408a2116f8ecfc9e96da4c08"
 metafile = true
 
 [[files]]

@@ -1,7 +1,6 @@
 // priority: 0
 
 ServerEvents.recipes(event => {
-	// Change recipes here
 	event.replaceInput({}, 'campanion:rope', 'farmersdelight:rope')
 	event.replaceInput({}, 'additionaladditions:rope', 'farmersdelight:rope')
 	event.remove({ output: 'campanion:rope' })
@@ -152,14 +151,6 @@ ServerEvents.recipes(event => {
 		]
 	})
 })
-
-// ServerEvents.tags('item', event => {
-// 	// Get the #forge:cobblestone tag collection and add Diamond Ore to it
-// 	// event.get('forge:cobblestone').add('minecraft:diamond_ore')
-
-// 	// Get the #forge:cobblestone tag collection and remove Mossy Cobblestone from it
-// 	// event.get('forge:cobblestone').remove('minecraft:mossy_cobblestone')
-// })
 
 LootJS.modifiers(event => {
 	event.addLootTableModifier(/.*/).replaceLoot("campanion:rope", "farmersdelight:rope")
