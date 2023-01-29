@@ -85,8 +85,40 @@ file = "config/openloader/advanced_options.json"
 hash = "97c64147276f55cad728249dd77602661e2327fa178aeb8e0db12866df448211"
 
 [[files]]
-file = "config/openloader/resources/KenziePackAssets.zip"
-hash = "3cd12dcfa33a5ee24b81512d6dcebf6c1eab46c85ccc836ec28e89fc6de625a5"
+file = "config/openloader/resources/kenziepack/assets/minecraft/texts/splashes.txt"
+hash = "174c1498bf26d44649bfb624d51c2eb0721dc052779a0f4e4662c3555638823a"
+
+[[files]]
+file = "config/openloader/resources/kenziepack/assets/minecraft/textures/gui/title/background/panorama_0.png"
+hash = "789b2b1509d6de5b0f6d7e7307bceb5dec6d2cc889584e19c3fa16101349f09f"
+
+[[files]]
+file = "config/openloader/resources/kenziepack/assets/minecraft/textures/gui/title/background/panorama_1.png"
+hash = "667f400655dc6a4fda6631615a6fc73751033319c27b5124f8fb2c266b73412a"
+
+[[files]]
+file = "config/openloader/resources/kenziepack/assets/minecraft/textures/gui/title/background/panorama_2.png"
+hash = "8a5fa5221370353d850e191b351294ccbf1e92efde5cb6ad9000f6bb608cb279"
+
+[[files]]
+file = "config/openloader/resources/kenziepack/assets/minecraft/textures/gui/title/background/panorama_3.png"
+hash = "470ee2d5c10f6d7bb3222757102284a2795b674c2732f316b69b22cb5df9f66d"
+
+[[files]]
+file = "config/openloader/resources/kenziepack/assets/minecraft/textures/gui/title/background/panorama_4.png"
+hash = "3194dc4b534076ac95661de3545fbfede41d55eccd35db15050558475cd9ef95"
+
+[[files]]
+file = "config/openloader/resources/kenziepack/assets/minecraft/textures/gui/title/background/panorama_5.png"
+hash = "4b9be7d18f0e09608941e975901eefd908c12b0681063aefe4790f17f4291689"
+
+[[files]]
+file = "config/openloader/resources/kenziepack/manifest.json"
+hash = "4666afc874e0c523d23e2da43cec00d78c76b8fda98a1f3307853fdb93973368"
+
+[[files]]
+file = "config/openloader/resources/kenziepack/pack.mcmeta"
+hash = "9b14554718f4063e41cf866fe26b40fa54a4a727815087c8c98312987849f2c9"
 
 [[files]]
 file = "config/waystones.toml"
@@ -98,7 +130,7 @@ hash = "02d6feb3afe1d9c96e137f8baaa71de982f1af0a2b37fbcba73f34ee59ebbd4d"
 
 [[files]]
 file = "kubejs/client_scripts/script.js"
-hash = "f13d83247438d5d46fc7585a1f2ba66c0409487e0a16e3f2e58249e3df90e903"
+hash = "94013993136356b39a977ea2f977e9bac2b72497ba106dff5c07b665fc829070"
 
 [[files]]
 file = "kubejs/config/client.properties"
@@ -114,7 +146,7 @@ hash = "00c4e5d4837cf8ae8e83853f8338b2102ec025d7e892a3557dfb9dc36036fddd"
 
 [[files]]
 file = "kubejs/server_scripts/script.js"
-hash = "57cc7de58b2811a8376e8df946ad3b2f3b5945c350e33fff7e21bfb9cf39a3c9"
+hash = "057922e342dd55133ce80802593eba3bab1e961f111f8b4e7301b3b0e9cc19f2"
 
 [[files]]
 file = "kubejs/startup_scripts/script.js"

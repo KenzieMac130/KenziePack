@@ -25,6 +25,12 @@ ServerEvents.recipes(event => {
 	event.remove({ output: 'computercraft:cable' })
 	event.remove({ output: 'ad_astra:nasa_workbench' })
 
+	event.remove({ output: 'bewitchment:cypress_broom' })
+	event.remove({ output: 'bewitchment:dragons_blood_broom' })
+	event.remove({ output: 'bewitchment:elder_broom' })
+	event.remove({ output: 'bewitchment:juniper_broom' })
+	event.remove({ output: 'bwplus:yew_broom' })
+
 	event.shaped(
 		Item.of('computercraft:computer_normal', 1),
 		[

@@ -1,0 +1,18 @@
+{
+ "format_version": 2,
+ "header": {
+   "description": "Assets for Kenzie Pack",
+   "name": "Kenzie Pack",
+   "uuid":"16230099-0798-466f-86b3-5abb372b0d4f",
+   "version": [1, 0, 0],
+   "min_engine_version": [1, 16, 0]
+  },
+ "modules": [
+   {
+     "description": "Assets for Kenzie Pack",
+     "type": "resources",
+     "uuid": "cc4bf1db-e116-428e-82b1-6e33acb58583",
+     "version": [1, 0, 0]
+   }
+ ]
+}
