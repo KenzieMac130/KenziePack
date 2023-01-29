@@ -531,6 +531,11 @@ hash = "c985bc9064cc29094fdfd59a037baa1523778cc2a9e5665c3f1b6ca0efe6a543"
 metafile = true
 
 [[files]]
+file = "mods/fabricproxy-lite.pw.toml"
+hash = "92c92ffb7a6ee49e51bf3a34537c9829351e7f702d83c3340843d2095f8f6ad5"
+metafile = true
+
+[[files]]
 file = "mods/fallingleaves.pw.toml"
 hash = "423581d9738b23798456b7ba021698355ef8f03cef93d8c1266102a227d9a200"
 metafile = true
@@ -623,6 +628,11 @@ metafile = true
 [[files]]
 file = "mods/lotta-blocks.pw.toml"
 hash = "162458923aea59d61d04b22ea693e89e9364938b35a8e36b2311ec86f6b10e21"
+metafile = true
+
+[[files]]
+file = "mods/luckperms.pw.toml"
+hash = "a4a461e73eb037dd5b5f3015a9a53d947c4533535b98f072f4ea96e90e9d68e4"
 metafile = true
 
 [[files]]
