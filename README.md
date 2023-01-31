@@ -35,6 +35,7 @@ All while respecting the vanilla game experience.
 * Cave Enhancements
 * YUNG's mods
 * Waystones
+* Lootr
 * and many more!
 
 ## First Time Installation
@@ -55,7 +56,7 @@ When in doubt use the search feature
 
 ### Create
 
-Steampunk automation
+Steampunk automation, trains, moving builds, and more
 
 [Developer's Saved Youtube Playlists](https://www.youtube.com/channel/UCrKV2QTuyGcv4E3eSJpBiYA/playlists)
 
@@ -65,12 +66,24 @@ Working computers
 
 [Reference](https://tweaked.cc/)
 
-[Lua Script Tutorials](https://www.tutorialspoint.com/lua/index.htm)
+[Video Tutorials](https://youtube.com/playlist?list=PLaiPn4ewcbkHYflo2jl0OuNaHK6Mj-koG)
+
+[Lua Script Reference](https://www.lua.org/manual/5.1/)
+
+[Lua Script Tutorials](http://lua-users.org/wiki/TutorialDirectory)
+
+Type `help` in the computer for more info.
 
 Kenzie's Notes
 ```
 Recipies have been tweaked to be late game content (check roughly enough items)
 ```
+
+### Waystones
+
+Fast travel and checkpoints
+
+[Wiki](https://blay09.net/mods/waystones/)
 
 ### Farmers Delight
 
@@ -97,6 +110,30 @@ Vampire campaign
 
 [Video Tutorial](https://www.youtube.com/watch?v=hi_hykT1oFg)
 
+### Friends and Foes
+
+Rejected mobs from past mob votes
+
+[Wiki](https://github.com/Faboslav/friends-and-foes/wiki/)
+
+### Better Nether
+
+Nether overhaul again
+
+[Wiki](https://github.com/paulevsGitch/BetterNether/wiki)
+
+### Better End
+
+End overhaul
+
+[Wiki](https://github.com/paulevsGitch/BetterEnd/wiki)
+
+### Oh the Biomes you'll go
+
+More biomes and blocks
+
+[Wiki](https://oh-the-biomes-youll-go.fandom.com/wiki/Oh_The_Biomes_You%27ll_Go_Wiki)
+
 ### Ad Astra
 
 Spaaaaaaaace!
@@ -121,3 +158,27 @@ Rope has been merged with farmers delight
 Rope bridges have been removed due to bugs and incompatibility
 Tip: use a soul campfire to ward off mobs
 ```
+
+### Adorn
+
+Furniture and more
+
+[Video Tutorial](https://youtu.be/h4ULfBlt_IQ)
+
+### Immersive paintings
+
+Custom painting images
+
+[Mod Page]https://www.curseforge.com/minecraft/mc-mods/immersive-paintings)
+
+### Lootr
+
+Shared loot
+
+[Video Explanation](https://www.youtube.com/watch?v=hxSQWAaD8rk)
+
+## Multiplayer
+
+Multiplayer is provided via minecraft.kenziemac130.com, this comes preconfigured as part of the pack.
+
+Should you wish to host your own server: this modpack has been configured to work with simple voice chat and given a compatibility layer for the velocity proxy.
