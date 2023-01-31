@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "README.md"
-hash = "df51cf59648a06d6389d9b10f359eaf499c6c03759d86557fe3283dcc0b540fa"
-
-[[files]]
 file = "config/WildlifeConfig.json"
 hash = "9d5304ab049cf1de2fb24a05439754b89baba61867549e7ff6c84251752647fe"
 
