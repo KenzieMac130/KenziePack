@@ -39,7 +39,8 @@ I recommend using the MultiMC or Prism launcher to manage your minecraft install
 7. Go to Settings, check the memory box, and type in atleast 4096mb under maximum allocation
 
     * Check your avalible memory in task manager if you are unsure what you can spare, close out unneded tasks and use your best judgement. 
-    * Running out of memory midgame on single player can cause world corruption in some cases, please don't be conservative.
+    * In the screenshot bellow I allocated 8gb out of my existing 16gb for example.
+    * ⚠️ Running out of memory midgame on single player can cause world corruption in some cases, please don't be conservative. ⚠️
 
     ![missing image](step35.png)
 
