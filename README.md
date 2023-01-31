@@ -169,7 +169,7 @@ Furniture and more
 
 Custom painting images
 
-[Mod Page]https://www.curseforge.com/minecraft/mc-mods/immersive-paintings)
+[Mod Page](https://www.curseforge.com/minecraft/mc-mods/immersive-paintings)
 
 ### Lootr
 
@@ -179,6 +179,6 @@ Shared loot
 
 ## Multiplayer
 
-Multiplayer is provided via minecraft.kenziemac130.com, this comes preconfigured as part of the pack.
+Multiplayer is provided via minecraft.kenziemac130.com. This comes preconfigured as part of the pack. The vanilla servers will still be running and maintained alongside this.
 
 Should you wish to host your own server: this modpack has been configured to work with simple voice chat and given a compatibility layer for the velocity proxy.
