@@ -27,8 +27,8 @@ I recommend using the MultiMC or Prism launcher to manage your minecraft install
     ![missing image](step05.png)
     ![missing image](step07.png)
 
-    Use the following URL
-    
+    Use the following URL in the direct download field or download and point to it manually.
+
     `https://github.com/KenzieMac130/KenziePack/releases/download/bootstrap/KenziePack.zip`
 
 3. Launch the game and the mods will be automatically installed and updated every time you launch
