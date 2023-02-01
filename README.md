@@ -16,7 +16,7 @@ Over 100 mods which bring...
 
 All while respecting the vanilla game experience.
 
-## Mod Higlights
+## Mod Highlights
 
 * Create
 * Bewitchment
