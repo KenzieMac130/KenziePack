@@ -20,6 +20,18 @@ I recommend using the MultiMC or Prism launcher to manage your minecraft install
     * if you have not yet migrated your old mojang to microsoft account [please do](https://www.minecraft.net/en-us/login?view=mojang)
     * complete the steps on the page as instructed
 
+## Fast
+
+2. Add a new instance, select "Import from zip" and point the file path to the following url
+`https://github.com/KenzieMac130/KenziePack/releases/download/bootstrap/KenziePack.zip`
+
+    ![missing image](step05.png)
+    ![missing image](step07.png)
+
+3. Launch the game and the mods will be automatically installed and updated every time you launch
+
+## Manual
+
 2. Add new instance of Minecraft 1.19.2 (will not work on other versions)
     ![missing image](step05.png)
     ![missing image](step10.png)
