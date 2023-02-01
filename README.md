@@ -41,9 +41,7 @@ All while respecting the vanilla game experience.
 
 ## First Time Installation
 
-[MultiMC/Prism Launcher (RECOMMENDED)](/docs/install/multimc/INSTRUCTIONS.md)
-
-[Official Minecraft Launcher (NOT RECOMMENDED, BROKEN)](/docs/install/vanilla/INSTRUCTIONS.md)
+[MultiMC/Prism Launcher](/docs/install/multimc/INSTRUCTIONS.md)
 
 ## Useful Tutorials and References
 
