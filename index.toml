@@ -407,6 +407,11 @@ hash = "bd21befb0fa945159638844e06cba6a5e298785866508a95a100026a10dac0a8"
 metafile = true
 
 [[files]]
+file = "mods/better-nether-map.pw.toml"
+hash = "5a32457d03397962ca0ac645236f9e212c01a9589768857f85f49d5427ed8ce1"
+metafile = true
+
+[[files]]
 file = "mods/better-spawner-control.pw.toml"
 hash = "250af885004a7e74631b8f585ea0aeca9e74790ab6feb5f17eb959fd8006ea8a"
 metafile = true
