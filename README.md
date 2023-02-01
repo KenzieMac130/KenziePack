@@ -36,6 +36,7 @@ All while respecting the vanilla game experience.
 * YUNG's mods
 * Waystones
 * Lootr
+* Map Atlas
 * and many more!
 
 ## First Time Installation
@@ -57,6 +58,8 @@ When in doubt use the search feature
 ### Create
 
 Steampunk automation, trains, moving builds, and more
+
+[Wiki](https://create.fandom.com/wiki/Create_Mod_Wiki)
 
 [Developer's Saved Youtube Playlists](https://www.youtube.com/channel/UCrKV2QTuyGcv4E3eSJpBiYA/playlists)
 
@@ -85,11 +88,19 @@ Fast travel and checkpoints
 
 [Wiki](https://blay09.net/mods/waystones/)
 
+### Map Atlas
+
+Minimap using vanilla maps
+
+[Mod Page](https://www.curseforge.com/minecraft/mc-mods/map-atlases)
+
 ### Farmers Delight
 
 More farming and cooking stuff
 
 [Wiki](https://github.com/vectorwing/FarmersDelight/wiki/Getting-Started)
+
+[Video Tutorial](https://youtu.be/WbpX5dPtJOM)
 
 ### Bewtichment
 
