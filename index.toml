@@ -612,6 +612,11 @@ hash = "33022430ccfc723fa386c77650f70b2ad987e1e68fa8986e1de0d9778fafebd7"
 metafile = true
 
 [[files]]
+file = "mods/joy-of-painting.pw.toml"
+hash = "51ef097ae385872cae9608db55cc8beba6f9c616929f03042fa5d710c1a84d7f"
+metafile = true
+
+[[files]]
 file = "mods/kubejs.pw.toml"
 hash = "6e06fcacd3d3b08a6623fb497876ea3028260379c64539fb8c82c251429e5f5d"
 metafile = true
