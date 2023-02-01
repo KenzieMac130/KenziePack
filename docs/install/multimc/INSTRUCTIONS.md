@@ -22,11 +22,14 @@ I recommend using the MultiMC or Prism launcher to manage your minecraft install
 
 ## Fast
 
-2. Add a new instance, select "Import from zip" and point the file path to the following url
-`https://github.com/KenzieMac130/KenziePack/releases/download/bootstrap/KenziePack.zip`
+2. Add a new instance, select "Import from zip"
 
     ![missing image](step05.png)
     ![missing image](step07.png)
+
+    Use the following URL
+    
+    `https://github.com/KenzieMac130/KenziePack/releases/download/bootstrap/KenziePack.zip`
 
 3. Launch the game and the mods will be automatically installed and updated every time you launch
 
