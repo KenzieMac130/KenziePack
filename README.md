@@ -182,6 +182,12 @@ Custom painting images
 
 [Mod Page](https://www.curseforge.com/minecraft/mc-mods/immersive-paintings)
 
+### Joy of Painting
+
+Paint happy little trees in minecraft
+
+[Mod Page](https://www.curseforge.com/minecraft/mc-mods/joy-of-painting)
+
 ### Lootr
 
 Shared loot
