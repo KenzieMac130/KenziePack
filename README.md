@@ -61,6 +61,8 @@ Steampunk automation, trains, moving builds, and more
 
 [Developer's Saved Youtube Playlists](https://www.youtube.com/channel/UCrKV2QTuyGcv4E3eSJpBiYA/playlists)
 
+Search `@create` in roughly enough items, hover over an entry and hold the `w` key for an interactive guide.
+
 ### Computer Craft
 
 Working computers
