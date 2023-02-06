@@ -333,6 +333,10 @@ file = "config/openloader/resources/kenziepack/pack.mcmeta"
 hash = "9b14554718f4063e41cf866fe26b40fa54a4a727815087c8c98312987849f2c9"
 
 [[files]]
+file = "config/smoothswapping.json"
+hash = "655a36e674d613ff008e833880a6902c2c13c85c84f838fdd3c3a2ce04bda12a"
+
+[[files]]
 file = "config/waystones.toml"
 hash = "07c256bfc331ae60a6b0dc764622a783dc538e6496ee6bc5da48660dbc08353e"
 
