@@ -527,6 +527,11 @@ hash = "4726b912f30d2344b412c3204204a8f740bc7605b0c715fe8a3673b6be5ee949"
 metafile = true
 
 [[files]]
+file = "mods/extrasounds.pw.toml"
+hash = "2e871ee3068cfb44e799d244f4e586e6f32e5708b16a6832939c3c4f01d91170"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "c3539f5c0d32666566b8cae83d8ff5ea39d07e1b3a70a43f40aeb8f656f75d72"
 metafile = true
@@ -592,13 +597,13 @@ hash = "e8168531c092676d47cac3657bfc525f096f11ff5372ce6e322ad57778b81635"
 metafile = true
 
 [[files]]
-file = "mods/inventory-sorting.pw.toml"
-hash = "9ec7fac40bbe6f5e496993422b10b9df982cbf9ad5f8631f1070476cbf20b5fe"
+file = "mods/iris.pw.toml"
+hash = "0bb13d0459be9af19faf40ea8e83b8bf29922b378dcbe9e430fc7de11d98dac3"
 metafile = true
 
 [[files]]
-file = "mods/iris.pw.toml"
-hash = "0bb13d0459be9af19faf40ea8e83b8bf29922b378dcbe9e430fc7de11d98dac3"
+file = "mods/itemswapper.pw.toml"
+hash = "3c95ba1c0a5e8065fbce03ea38aef44e5dfdff2e681c81a8720e6ff543774309"
 metafile = true
 
 [[files]]
@@ -702,6 +707,11 @@ hash = "f4392704077ed556f9d488a80339c2fa244a2ec8cf91af38bdf6709b84c4429a"
 metafile = true
 
 [[files]]
+file = "mods/mouse-wheelie.pw.toml"
+hash = "8bad8c9de76befcc2d3335022417b8a89983f2c4ea8dc547911d7104367f626a"
+metafile = true
+
+[[files]]
 file = "mods/no-hostiles-around-campfire.pw.toml"
 hash = "743a204dbcc45577079c9416c609bc2a5bc0f229b58b2c6c1ab36aae88b5a1ea"
 metafile = true
@@ -774,6 +784,11 @@ metafile = true
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "d26fc59b8f6faba19e94a2586e88ec7666a6d8cdfb3056a52ae9c9469c77da45"
+metafile = true
+
+[[files]]
+file = "mods/smooth-swapping.pw.toml"
+hash = "85d71098e76e126de26c40543ebd506f100de842e5e801a0ecd6be669ed58429"
 metafile = true
 
 [[files]]
