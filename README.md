@@ -94,6 +94,22 @@ Minimap using vanilla maps
 
 [Mod Page](https://www.curseforge.com/minecraft/mc-mods/map-atlases)
 
+### Mouse Wheelie
+
+Item retrieval enhancements and sorting
+
+[Mod Page](https://modrinth.com/mod/mouse-wheelie)
+
+### Item Swapper
+
+Quick item pie menus and popup menus
+
+[Mod Page](https://modrinth.com/plugin/itemswapper)
+
+[Overview Video](https://youtu.be/hTuWMqj5RFE)
+
+[Creating Custom Pallettes Video](https://youtu.be/jpJxeDg9daU)
+
 ### Farmers Delight
 
 More farming and cooking stuff
