@@ -216,9 +216,16 @@ Multiplayer is provided via minecraft.kenziemac130.com. This comes preconfigured
 
 Should you wish to host your own server: this modpack has been configured to work with simple voice chat and given a compatibility layer for the velocity proxy.
 
-
 ## Repository
 
 [GitHub](https://github.com/KenzieMac130/KenziePack)
 
 [Report Bugs](https://github.com/KenzieMac130/KenziePack/issues)
+
+## Known Issues
+
+### Resource Pack Order
+
+Sometimes upon pack updates new resource packs will be introduced which will be in a different order for different users. This causes some features like texture pack enhancements and item wheels to use their default configuration. This is a Mojang problem as the resource pack list is stored in the `options.txt` which I do not want to overwrite every update. I am working on a solution to this issue.
+
+Workaround: when you notice an update occur go to your `Options->Resource Packs` and make sure `kenziepack` is always on top using the arrows on the icons.
