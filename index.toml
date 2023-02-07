@@ -297,6 +297,74 @@ file = "config/openloader/advanced_options.json"
 hash = "97c64147276f55cad728249dd77602661e2327fa178aeb8e0db12866df448211"
 
 [[files]]
+file = "config/openloader/resources/kenziepack/assets/itemswapper/list/buckets.json"
+hash = "9e0b73175244288cad01acf7f0da3fb6b8656598e29d03a7d58a69366537a087"
+
+[[files]]
+file = "config/openloader/resources/kenziepack/assets/itemswapper/list/explosives.json"
+hash = "77b0055742519d3fdd88e07a97d9210b769a5a52118bbf6c02a62501401a0323"
+
+[[files]]
+file = "config/openloader/resources/kenziepack/assets/itemswapper/list/food.json"
+hash = "9299c149fc7519df24394f81f97a0eda3e033654ebb6145205ba53fef506b301"
+
+[[files]]
+file = "config/openloader/resources/kenziepack/assets/itemswapper/list/misc_tools.json"
+hash = "ba3664f9b58fcf11571ac77d2550d425267788ecbde56afab69bcd478da1a18e"
+
+[[files]]
+file = "config/openloader/resources/kenziepack/assets/itemswapper/list/tools.json"
+hash = "ea818d60eeb6b4ca2dc7abe75f18f13a4dec6944a060619f9875b422c06209c9"
+
+[[files]]
+file = "config/openloader/resources/kenziepack/assets/itemswapper/list/weapons.json"
+hash = "a0f8ad4e452feee71506bb2e9da5a353dd5889db631d3c73fd525903a4ca4745"
+
+[[files]]
+file = "config/openloader/resources/kenziepack/assets/itemswapper/wheel_primary/adastra_machines.json"
+hash = "e04f7ee72501e5450dc23e7e94a8e41e2743f0bab10b9433483772d425bce2fb"
+
+[[files]]
+file = "config/openloader/resources/kenziepack/assets/itemswapper/wheel_primary/create_conveyor.json"
+hash = "dc50c73abd2bf3b428fcb80921e59ccc008240c676dc62e520c0d895b493844f"
+
+[[files]]
+file = "config/openloader/resources/kenziepack/assets/itemswapper/wheel_primary/create_fluid.json"
+hash = "1b763e6c1a2a0b2bda0f051e49a88b608893d34fbb4829c28ff54f05749b611e"
+
+[[files]]
+file = "config/openloader/resources/kenziepack/assets/itemswapper/wheel_primary/create_gears.json"
+hash = "631a2f9c31e27c620b4b52f2bc2cb676c5520bebb9bae129461eae924be14932"
+
+[[files]]
+file = "config/openloader/resources/kenziepack/assets/itemswapper/wheel_primary/create_generator.json"
+hash = "545ecad6e02b3fc9fd323801f4737dab499ed343b2707e5a8d8160a362cf5dc1"
+
+[[files]]
+file = "config/openloader/resources/kenziepack/assets/itemswapper/wheel_primary/create_mover.json"
+hash = "5fe0a354b71f7efa04a05658a96e83715b2cba08ca0fa836585b9a96e6df0a97"
+
+[[files]]
+file = "config/openloader/resources/kenziepack/assets/itemswapper/wheel_primary/create_seats.json"
+hash = "318aee8c2385bd801d46a81b8eff12e341e7f6166cab263d1f0ef8b05f612b78"
+
+[[files]]
+file = "config/openloader/resources/kenziepack/assets/itemswapper/wheel_primary/create_tasks.json"
+hash = "a45e9880668cf7cf56733f995cbd4e19612530c403e9846b5363c4aa70bc5f58"
+
+[[files]]
+file = "config/openloader/resources/kenziepack/assets/itemswapper/wheel_primary/create_trains.json"
+hash = "83eb967ca5ea47b0ecb8dfa7b90c0ff7684fa0eef5279c02a17fb99e2af6785e"
+
+[[files]]
+file = "config/openloader/resources/kenziepack/assets/itemswapper/wheel_primary/create_valves.json"
+hash = "c7ac7548135af19ec93b7f1568efcbd8057de502cd0a188c35815628dc4136bd"
+
+[[files]]
+file = "config/openloader/resources/kenziepack/assets/itemswapper/wheel_secondary/create_windmill.json"
+hash = "e8009a345a28bf86c19a586d5976ceda22557a4d4a7c944103648b569db45021"
+
+[[files]]
 file = "config/openloader/resources/kenziepack/assets/minecraft/texts/splashes.txt"
 hash = "174c1498bf26d44649bfb624d51c2eb0721dc052779a0f4e4662c3555638823a"
 
