@@ -215,3 +215,10 @@ Shared loot
 Multiplayer is provided via minecraft.kenziemac130.com. This comes preconfigured as part of the pack. The vanilla servers will still be running and maintained alongside this.
 
 Should you wish to host your own server: this modpack has been configured to work with simple voice chat and given a compatibility layer for the velocity proxy.
+
+
+## Repository
+
+[GitHub](https://github.com/KenzieMac130/KenziePack)
+
+[Report Bugs](https://github.com/KenzieMac130/KenziePack/issues)
