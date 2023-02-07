@@ -310,7 +310,7 @@ hash = "9299c149fc7519df24394f81f97a0eda3e033654ebb6145205ba53fef506b301"
 
 [[files]]
 file = "config/openloader/resources/kenziepack/assets/itemswapper/itemgroups/list/misc_tools.json"
-hash = "ba3664f9b58fcf11571ac77d2550d425267788ecbde56afab69bcd478da1a18e"
+hash = "eeea86948da383665cd07561629b3d214dca926899fde22cfc1105113c8b9225"
 
 [[files]]
 file = "config/openloader/resources/kenziepack/assets/itemswapper/itemgroups/list/tools.json"
