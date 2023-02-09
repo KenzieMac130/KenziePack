@@ -405,6 +405,10 @@ file = "config/smoothswapping.json"
 hash = "655a36e674d613ff008e833880a6902c2c13c85c84f838fdd3c3a2ce04bda12a"
 
 [[files]]
+file = "config/spiceoffabric.hjson"
+hash = "a11d3c44ec362259e1ae2b397dcd3ceb916b3e292efe094414d600eda322bdd6"
+
+[[files]]
 file = "config/waystones.toml"
 hash = "07c256bfc331ae60a6b0dc764622a783dc538e6496ee6bc5da48660dbc08353e"
 
@@ -521,6 +525,11 @@ metafile = true
 [[files]]
 file = "mods/campanion.pw.toml"
 hash = "e351f40305f1377a4023c09e774d040e601d513bd37e307955b2f68e986a612c"
+metafile = true
+
+[[files]]
+file = "mods/carpet.pw.toml"
+hash = "46b444dc88aac495a314699961072c72b16661130aff501d176a2b8c12c49b72"
 metafile = true
 
 [[files]]
@@ -691,6 +700,11 @@ metafile = true
 [[files]]
 file = "mods/joy-of-painting.pw.toml"
 hash = "51ef097ae385872cae9608db55cc8beba6f9c616929f03042fa5d710c1a84d7f"
+metafile = true
+
+[[files]]
+file = "mods/keep-inventory-control.pw.toml"
+hash = "3f226fa667e3212439a2532a4d28c38db8cb2ccf09227b3ad4d4d2397903075f"
 metafile = true
 
 [[files]]
@@ -871,6 +885,11 @@ metafile = true
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
 hash = "08d9f157fea976ba8e7a20ebfce995fe5419ebddf581fcdab079aaceb33053e3"
+metafile = true
+
+[[files]]
+file = "mods/spice-of-fabric.pw.toml"
+hash = "4d1a231d92abc8cb8ca4f9f32fb502eaf0558b1572a8f3351f09060978507fac"
 metafile = true
 
 [[files]]

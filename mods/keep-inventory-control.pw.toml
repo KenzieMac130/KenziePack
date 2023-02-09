@@ -1,0 +1,13 @@
+name = "Keep Inventory Control"
+filename = "keepinvcontrol-1.0.0-1.19.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/IfVKzbP9/versions/qbjrd07f/keepinvcontrol-1.0.0-1.19.2.jar"
+hash-format = "sha1"
+hash = "1ff0fa34d35d1ec86e081550760c749b763368c9"
+
+[update]
+[update.modrinth]
+mod-id = "IfVKzbP9"
+version = "qbjrd07f"
