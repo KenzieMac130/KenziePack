@@ -1,0 +1,13 @@
+name = "Litematica"
+filename = "litematica-fabric-1.19.2-0.12.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8caa74c61d30fa6ee20bd4390844c3d3854d9001"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4259743
+project-id = 308892

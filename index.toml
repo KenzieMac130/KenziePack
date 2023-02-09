@@ -718,6 +718,11 @@ hash = "9b628c73b749c901f12ba08b8304c161801903b1dd3fdbb6d4b93a9d42d25afa"
 metafile = true
 
 [[files]]
+file = "mods/litematica.pw.toml"
+hash = "75c2c9732f980f22c774856f93fbea35a6a7f80a98af136f173956abc6cf5665"
+metafile = true
+
+[[files]]
 file = "mods/lootjs.pw.toml"
 hash = "3bbf2298e33233de0881c6403582502d8a05bed5e439968f7e109a80c297a316"
 metafile = true
