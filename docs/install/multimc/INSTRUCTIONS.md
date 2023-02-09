@@ -6,7 +6,7 @@ I recommend using the MultiMC or Prism launcher to manage your minecraft install
 
 Install the Launcher if you haven't already
 
-1. Install launcher (follow their install steps)
+1. Install either launcher (follow their install steps)
     * [MultiMC](https://multimc.org/)
     * [Prism](https://prismlauncher.org/) (recommended to use flatpack package on steamdeck)
 
