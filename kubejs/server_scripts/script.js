@@ -134,6 +134,20 @@ ServerEvents.recipes(event => {
 		}
 	)
 
+	event.shaped(
+		Item.of('minecraft:saddle', 1),
+		[
+			'AAA',
+			' C ',
+			' B '
+		],
+		{
+			A: 'minecraft:leather',
+			B: 'minecraft:iron_ingot',
+			C: 'minecraft:string'
+		}
+	)
+
 	event.recipes.createMixing({
 		ingredients: [
 			{
