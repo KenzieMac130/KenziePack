@@ -30,6 +30,13 @@ ServerEvents.recipes(event => {
 	event.remove({ output: 'bewitchment:juniper_broom' })
 	event.remove({ output: 'bwplus:yew_broom' })
 
+	// https://github.com/TerraformersMC/Campanion/issues/175
+	event.remove({ output: 'campanion:leather_pouch' })
+	event.remove({ output: 'campanion:tanned_leather_pouch' })
+	event.remove({ output: 'campanion:camping_pack' })
+	event.remove({ output: 'campanion:day_pack' })
+	event.remove({ output: 'campanion:hiking_pack' })
+
 	event.shaped(
 		Item.of('computercraft:computer_normal', 1),
 		[
