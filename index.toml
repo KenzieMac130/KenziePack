@@ -406,7 +406,7 @@ hash = "655a36e674d613ff008e833880a6902c2c13c85c84f838fdd3c3a2ce04bda12a"
 
 [[files]]
 file = "config/spiceoffabric.hjson"
-hash = "a11d3c44ec362259e1ae2b397dcd3ceb916b3e292efe094414d600eda322bdd6"
+hash = "fbed65bc7e030a19014f8e92c0b1ffdb44af6beb4e6749c3fa4ef34d5c188638"
 
 [[files]]
 file = "config/waystones.toml"
