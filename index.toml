@@ -310,15 +310,15 @@ hash = "9299c149fc7519df24394f81f97a0eda3e033654ebb6145205ba53fef506b301"
 
 [[files]]
 file = "config/openloader/resources/kenziepack/assets/itemswapper/itemgroups/list/misc_tools.json"
-hash = "eeea86948da383665cd07561629b3d214dca926899fde22cfc1105113c8b9225"
+hash = "2ea13f0d5481a590fdbe5c9768b0fa8590cecd5f4f9b43b9e63f892edff96b2a"
 
 [[files]]
 file = "config/openloader/resources/kenziepack/assets/itemswapper/itemgroups/list/tools.json"
-hash = "ea818d60eeb6b4ca2dc7abe75f18f13a4dec6944a060619f9875b422c06209c9"
+hash = "6cf22e598a731266cb85f4f8e4a3cef833aa54a6a3a8a62ea320feae0959441c"
 
 [[files]]
 file = "config/openloader/resources/kenziepack/assets/itemswapper/itemgroups/list/weapons.json"
-hash = "a0f8ad4e452feee71506bb2e9da5a353dd5889db631d3c73fd525903a4ca4745"
+hash = "8cdba32dd3855d6f93abc6f8247d501803f7b3717fb7a413cd07962254bffeee"
 
 [[files]]
 file = "config/openloader/resources/kenziepack/assets/itemswapper/itemgroups/wheel_primary/adastra_machines.json"
@@ -793,11 +793,6 @@ hash = "a7720df455042b8b3f24d90a3b21352049377a4066a06a0dec4759063be8b3df"
 metafile = true
 
 [[files]]
-file = "mods/morechatsuggestions.pw.toml"
-hash = "95236362d682085fe7d78c10bc1a51e48248c62049fd17d8bc48c6ad71de80e0"
-metafile = true
-
-[[files]]
 file = "mods/morejs.pw.toml"
 hash = "f4392704077ed556f9d488a80339c2fa244a2ec8cf91af38bdf6709b84c4429a"
 metafile = true
@@ -840,6 +835,11 @@ metafile = true
 [[files]]
 file = "mods/reacharound.pw.toml"
 hash = "3449d92f49a45b51bd0815fd34ab1d5ba44a5c74c5019b8805592ff61e3477bc"
+metafile = true
+
+[[files]]
+file = "mods/reaper.pw.toml"
+hash = "9a10b0ff87f25d4d7210b3e39b8883768bac98d3e00b5b1bbbd1e54c8c1c3821"
 metafile = true
 
 [[files]]
@@ -903,6 +903,11 @@ hash = "4d1a231d92abc8cb8ca4f9f32fb502eaf0558b1572a8f3351f09060978507fac"
 metafile = true
 
 [[files]]
+file = "mods/spirit.pw.toml"
+hash = "d74f7b0d2418835913a13b90b1be0e27d624056bc05a3fa886d1e6fad1619743"
+metafile = true
+
+[[files]]
 file = "mods/stray-spawn.pw.toml"
 hash = "cb447b19a828dee4b16d604e0726165634a1eb1134e1790956cf8979ebf22557"
 metafile = true
@@ -933,6 +938,11 @@ hash = "bbd4ba6c9d65822511fcb47417a613481337b11f4fa0ec85080e823bc0c1b662"
 metafile = true
 
 [[files]]
+file = "mods/vitalize.pw.toml"
+hash = "ec561648b8bc606f603a15567e3df5ccdd34e26f61098fa5f4525e102d248f4b"
+metafile = true
+
+[[files]]
 file = "mods/voice-chat-interaction.pw.toml"
 hash = "4a63451ef8d020713651dd9d364772595b0124138511a1a39c9b8c8e72e3c0c0"
 metafile = true
@@ -945,11 +955,6 @@ metafile = true
 [[files]]
 file = "mods/waystones.pw.toml"
 hash = "7469851e3fed3e9176d431c4da39acb4d0d815f0f1e2341d8621d6c96294a697"
-metafile = true
-
-[[files]]
-file = "mods/weirdchat.pw.toml"
-hash = "fc4f419f08619139ea5c1d1734752a5649eeccc9c65446a49542b57b0b4d7c8a"
 metafile = true
 
 [[files]]

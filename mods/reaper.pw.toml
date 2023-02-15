@@ -1,0 +1,13 @@
+name = "Reaper"
+filename = "Reaper-1.0.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/1vwtOeW2/versions/Y56wX5H0/Reaper-1.0.4.jar"
+hash-format = "sha1"
+hash = "d2fb649526b5c31b3c36e5f048e7637f548a3742"
+
+[update]
+[update.modrinth]
+mod-id = "1vwtOeW2"
+version = "Y56wX5H0"
