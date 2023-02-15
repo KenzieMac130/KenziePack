@@ -37,6 +37,9 @@ All while respecting the vanilla game experience.
 * Waystones
 * Lootr
 * Map Atlas
+* Spirit
+* Vitalize
+* Reaper
 * and many more!
 
 ## First Time Installation
@@ -183,6 +186,7 @@ Camping Trip
 ```
 Rope has been merged with farmers delight
 Rope bridges have been removed due to bugs and incompatibility
+Backpacks have had recipes removed as they delete items upon death in keep inventory
 Tip: use a soul campfire to ward off mobs
 ```
 
@@ -209,6 +213,24 @@ Paint happy little trees in minecraft
 Shared loot
 
 [Video Explanation](https://www.youtube.com/watch?v=hxSQWAaD8rk)
+
+### Spirit
+
+Custom mob spawners in survival as well as harnessing soul power
+
+[Video Tutorial](https://www.youtube.com/watch?v=lv6C3dZ7hGs)
+
+### Reaper
+
+Generate electricity from death with the spirit mod
+
+[Mod Page](https://modrinth.com/mod/reaper)
+
+### Vitalize
+
+Simulate the death of mobs with the spirit mod
+
+[Video Demo](https://www.youtube.com/watch?v=S-oKnyHgFPY)
 
 ## Multiplayer
 
