@@ -58,7 +58,7 @@ When in doubt use the search feature
 
 ### Create
 
-Steampunk automation, trains, moving builds, and more
+Gearpunk automation, trains, moving builds, and more
 
 [Wiki](https://create.fandom.com/wiki/Create_Mod_Wiki)
 
