@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/LibertyVillagers.json"
+hash = "da9e79731bb3e371f8131c96a0463744d21a407cf438e63d78005a08b1799bec"
+
+[[files]]
 file = "config/WildlifeConfig.json"
 hash = "9d5304ab049cf1de2fb24a05439754b89baba61867549e7ff6c84251752647fe"
 
@@ -498,6 +502,11 @@ hash = "f53f6e9fd20d04b26e04ad91b9cd541146d0691d4b463949c8192a9a706cce97"
 metafile = true
 
 [[files]]
+file = "mods/betterleads.pw.toml"
+hash = "0a8bb1e39da1a8e16c83d0144f75a85ec942c74ddc73f92838e3bf55c06a0093"
+metafile = true
+
+[[files]]
 file = "mods/betternether.pw.toml"
 hash = "3292521cb083cd8f40425c006a85f25d0c9e31a9201aff7189953abba7004991"
 metafile = true
@@ -520,6 +529,11 @@ metafile = true
 [[files]]
 file = "mods/botarium.pw.toml"
 hash = "ed2e23b38b2e862d187b8303903724995bc3c61ce54a72733f3c3792932c2b86"
+metafile = true
+
+[[files]]
+file = "mods/broken-lead-warner.pw.toml"
+hash = "231cb6dfd0c457b2b7d8ee37638f19dd0bf4d9888b4907d213621bdc77fc0141"
 metafile = true
 
 [[files]]
@@ -720,6 +734,11 @@ metafile = true
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "9b628c73b749c901f12ba08b8304c161801903b1dd3fdbb6d4b93a9d42d25afa"
+metafile = true
+
+[[files]]
+file = "mods/libertyvillagers.pw.toml"
+hash = "b050ffc3079f7b380fb73b5811409d99fdc0e564819de67eca35d4fb7dc57f29"
 metafile = true
 
 [[files]]
@@ -955,6 +974,16 @@ metafile = true
 [[files]]
 file = "mods/waystones.pw.toml"
 hash = "7469851e3fed3e9176d431c4da39acb4d0d815f0f1e2341d8621d6c96294a697"
+metafile = true
+
+[[files]]
+file = "mods/worldedit.pw.toml"
+hash = "719da66ac6adbf00ace4a021f1bfcd6aca271b16caa40629de9e73a79b844905"
+metafile = true
+
+[[files]]
+file = "mods/worldeditcui-fabric.pw.toml"
+hash = "9e86144c0543f6bcfa735d71451e93d3b101c94bd7956079c080e9e2a4f90f60"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "Liberty's Villagers"
+filename = "liberty-villagers-mod-1.0.13+fabric+1.19.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/264clomZ/versions/6N2gZwlK/liberty-villagers-mod-1.0.13%2Bfabric%2B1.19.2.jar"
+hash-format = "sha1"
+hash = "8c5afba35c5a4123d438b504749d10384e224554"
+
+[update]
+[update.modrinth]
+mod-id = "264clomZ"
+version = "6N2gZwlK"
