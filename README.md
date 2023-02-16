@@ -121,7 +121,7 @@ More farming and cooking stuff
 
 [Video Tutorial](https://youtu.be/WbpX5dPtJOM)
 
-### Bewtichment
+### Bewitchment
 
 Witchcraft and the occult
 
