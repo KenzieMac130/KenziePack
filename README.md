@@ -218,6 +218,8 @@ Shared loot
 
 Custom mob spawners in survival as well as harnessing soul power
 
+[Wiki](https://codexadrian.gitbook.io/spirit/)
+
 [Video Tutorial](https://www.youtube.com/watch?v=lv6C3dZ7hGs)
 
 ### Reaper
