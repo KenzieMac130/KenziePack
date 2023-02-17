@@ -737,11 +737,6 @@ hash = "9b628c73b749c901f12ba08b8304c161801903b1dd3fdbb6d4b93a9d42d25afa"
 metafile = true
 
 [[files]]
-file = "mods/libertyvillagers.pw.toml"
-hash = "b050ffc3079f7b380fb73b5811409d99fdc0e564819de67eca35d4fb7dc57f29"
-metafile = true
-
-[[files]]
 file = "mods/litematica.pw.toml"
 hash = "75c2c9732f980f22c774856f93fbea35a6a7f80a98af136f173956abc6cf5665"
 metafile = true
