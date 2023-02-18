@@ -66,6 +66,8 @@ Gearpunk automation, trains, moving builds, and more
 
 Search `@create` in roughly enough items, hover over an entry and hold the `w` key for an interactive guide.
 
+[Tips and Tricks Video](https://youtu.be/azXvsqymVa4)
+
 ### Computer Craft
 
 Working computers
