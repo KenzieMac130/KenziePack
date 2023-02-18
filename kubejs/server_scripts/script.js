@@ -37,6 +37,21 @@ ServerEvents.recipes(event => {
 	event.remove({ output: 'campanion:day_pack' })
 	event.remove({ output: 'campanion:hiking_pack' })
 
+	event.remove({ output: "inmis:frayed_backpack" })
+
+	event.shaped(
+		Item.of('inmis:frayed_backpack', 1),
+		[
+			'AAA',
+			'ABA',
+			'AAA'
+		],
+		{
+			A: 'campanion:tanned_leather',
+			B: 'minecraft:chest'
+		}
+	)
+
 	event.shaped(
 		Item.of('computercraft:computer_normal', 1),
 		[
@@ -149,7 +164,7 @@ ServerEvents.recipes(event => {
 			' B '
 		],
 		{
-			A: 'minecraft:leather',
+			A: 'campanion:tanned_leather',
 			B: 'minecraft:iron_ingot',
 			C: 'minecraft:string'
 		}

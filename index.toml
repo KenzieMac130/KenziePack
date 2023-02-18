@@ -318,11 +318,11 @@ hash = "2ea13f0d5481a590fdbe5c9768b0fa8590cecd5f4f9b43b9e63f892edff96b2a"
 
 [[files]]
 file = "config/openloader/resources/kenziepack/assets/itemswapper/itemgroups/list/tools.json"
-hash = "6cf22e598a731266cb85f4f8e4a3cef833aa54a6a3a8a62ea320feae0959441c"
+hash = "6a1929de57b842acae8a5d1bef3ba18c450824e6aa5afd0c04f567dfc94b8c70"
 
 [[files]]
 file = "config/openloader/resources/kenziepack/assets/itemswapper/itemgroups/list/weapons.json"
-hash = "8cdba32dd3855d6f93abc6f8247d501803f7b3717fb7a413cd07962254bffeee"
+hash = "437911bf3a2fefa7e456112bd0d003354dbcefaefa05d87438a5ffa5a0871cac"
 
 [[files]]
 file = "config/openloader/resources/kenziepack/assets/itemswapper/itemgroups/wheel_primary/adastra_machines.json"
@@ -450,7 +450,7 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "kubejs/server_scripts/script.js"
-hash = "9ff110c2d182960e4d5c50015e34b5050dc85df655b196844095d5abc22dfee4"
+hash = "0aa032c017a541c668361570309662cc5fd328b9868960565ebbf37b599fc237"
 
 [[files]]
 file = "kubejs/startup_scripts/script.js"
@@ -602,6 +602,11 @@ hash = "c06e098c6d6eda6da4492e4a8dff1796e6081bbd30f487ffb89e1ed3c485e805"
 metafile = true
 
 [[files]]
+file = "mods/deeperdarker.pw.toml"
+hash = "f30fd50b9b1868a1e0aee52b1b56e8c95c254fd760622bfb0fc16a4dcd283f87"
+metafile = true
+
+[[files]]
 file = "mods/default-options.pw.toml"
 hash = "8c82e927eea2e4f9dc1e5377d21c4bf84af36714dd0b10f44ce932c18f80c9b6"
 metafile = true
@@ -668,7 +673,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "384a78b98bfbb6c81918c9faec31e1d74053d451bb519b6428655d12c0e3dffc"
+hash = "db0833b74adaffba56a0fbb77b5936be80acc646d9567f5b8904adb33985758f"
 metafile = true
 
 [[files]]
@@ -689,6 +694,11 @@ metafile = true
 [[files]]
 file = "mods/indium.pw.toml"
 hash = "e8168531c092676d47cac3657bfc525f096f11ff5372ce6e322ad57778b81635"
+metafile = true
+
+[[files]]
+file = "mods/inmis.pw.toml"
+hash = "f33cb6b8cbbbe875d2e70d680658dd69b118aa0bed21e9b046e6958c5f4c5477"
 metafile = true
 
 [[files]]
