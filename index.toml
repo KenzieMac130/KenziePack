@@ -621,6 +621,11 @@ hash = "8c82e927eea2e4f9dc1e5377d21c4bf84af36714dd0b10f44ce932c18f80c9b6"
 metafile = true
 
 [[files]]
+file = "mods/dripsounds-fabric.pw.toml"
+hash = "285da02342eee9622e3d2245212165c0563103d1ed54a03d485fa6939cf0b571"
+metafile = true
+
+[[files]]
 file = "mods/ears.pw.toml"
 hash = "bd52ab27068961afc53efd50c527302775b87fb176d10779e0d6a0428dcc51e4"
 metafile = true
