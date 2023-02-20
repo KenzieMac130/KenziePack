@@ -1,0 +1,13 @@
+name = "Enderman Block"
+filename = "enderman-block-1.0.0-1.19.3.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/TLw88Gjb/versions/IZQhDy5o/enderman-block-1.0.0-1.19.3.zip"
+hash-format = "sha1"
+hash = "23bf00171ca553d719020d03daa0768b1391a409"
+
+[update]
+[update.modrinth]
+mod-id = "TLw88Gjb"
+version = "IZQhDy5o"

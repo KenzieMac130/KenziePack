@@ -301,6 +301,11 @@ file = "config/openloader/advanced_options.json"
 hash = "97c64147276f55cad728249dd77602661e2327fa178aeb8e0db12866df448211"
 
 [[files]]
+file = "config/openloader/data/enderman-block.pw.toml"
+hash = "2443c924b27db3c3d639e113efc9e8247b9a5d46650a911e64459498ce2f1446"
+metafile = true
+
+[[files]]
 file = "config/openloader/resources/kenziepack/assets/itemswapper/itemgroups/list/buckets.json"
 hash = "9e0b73175244288cad01acf7f0da3fb6b8656598e29d03a7d58a69366537a087"
 
