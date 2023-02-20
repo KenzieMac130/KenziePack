@@ -426,6 +426,10 @@ file = "config/waystones.toml"
 hash = "07c256bfc331ae60a6b0dc764622a783dc538e6496ee6bc5da48660dbc08353e"
 
 [[files]]
+file = "config/wiredredstone/common.json5"
+hash = "a22a9530ee0f16c9af6ce220acc49bde29fdf0b0d76215afdf7b798e3b1e9b0e"
+
+[[files]]
 file = "icon.png"
 hash = "45ae65501fd2bc900fdf9f216d6b05083a6c9c94a4fd6b6adcbd40e9f06c1dc8"
 
