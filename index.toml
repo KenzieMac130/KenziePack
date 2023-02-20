@@ -273,6 +273,10 @@ file = "config/iris.properties"
 hash = "86aea8ed2a2a5508eb37589a3ad381bf79a9ba1178a3e3ca7398622d0d011f8c"
 
 [[files]]
+file = "config/map_atlases.json5"
+hash = "e4b30a8ca5bd833b6d8fbb94b214f49f2133eb1d4ea6f413ab23b6278aa03e82"
+
+[[files]]
 file = "config/minihud/betterx_begin.json"
 hash = "7d379de5ad06b4471e4b7e62970340437662e77453dd1bacb3bc90f975403464"
 
