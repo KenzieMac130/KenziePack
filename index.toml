@@ -254,7 +254,7 @@ hash = "f442d23a49c50634efe4d30b4c6ed666ec9cd82e3c95836e521abd04ac6361ec"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
-hash = "bc06b335a96cc80dabfe054c53887cd63a9afc1553fcace3a95da8db621bed47"
+hash = "791212f719b6feb293eb711ea52475ed59fc194ef71902b654fece70762fa45a"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
@@ -482,6 +482,11 @@ metafile = true
 [[files]]
 file = "mods/adorn.pw.toml"
 hash = "f9cf1abe808c59f9c2ad85bb7033b6edffa133b5d870a6d3f4d718f260f0192a"
+metafile = true
+
+[[files]]
+file = "mods/amecs.pw.toml"
+hash = "65b0ccc80e7bb51344fc138cfe952a6c9cfea23db0282a8852799be0cca29b85"
 metafile = true
 
 [[files]]
@@ -967,6 +972,11 @@ metafile = true
 [[files]]
 file = "mods/terrarian-slimes.pw.toml"
 hash = "8f297c2b27eb184abfd9d6338a483e631ab439eefde151fe1684fc15886dc620"
+metafile = true
+
+[[files]]
+file = "mods/too-many-binds.pw.toml"
+hash = "377dbb87db55f7a1062f8fd67e98ab2547b095fea056bb4d08ad54639ba3fff1"
 metafile = true
 
 [[files]]
