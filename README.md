@@ -91,6 +91,8 @@ Recipies have been tweaked to be late game content (check roughly enough items)
 
 ### Wired Redstone
 
+Compact redstone and logic gates
+
 [Mod Page](https://github.com/Kneelawk/WiredRedstone)
 
 ### Waystones
