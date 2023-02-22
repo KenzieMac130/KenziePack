@@ -80,12 +80,20 @@ Working computers
 
 [Lua Script Tutorials](http://lua-users.org/wiki/TutorialDirectory)
 
+[Visual Studio Code Extension](https://marketplace.visualstudio.com/items?itemName=lemmmy.computercraft-extension-pack)
+
 Type `help` in the computer for more info.
 
 Kenzie's Notes
 ```
 Recipies have been tweaked to be late game content (check roughly enough items)
 ```
+
+### Wired Redstone
+
+Compact redstone and logic gates
+
+[Mod Page](https://github.com/Kneelawk/WiredRedstone)
 
 ### Waystones
 
