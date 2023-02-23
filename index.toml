@@ -635,11 +635,6 @@ hash = "8c82e927eea2e4f9dc1e5377d21c4bf84af36714dd0b10f44ce932c18f80c9b6"
 metafile = true
 
 [[files]]
-file = "mods/distanthorizons.pw.toml"
-hash = "bf466c25f51d243f814c775ea0b24bc98846b2f8de550c6c45c9ad421562e313"
-metafile = true
-
-[[files]]
 file = "mods/dripsounds-fabric.pw.toml"
 hash = "285da02342eee9622e3d2245212165c0563103d1ed54a03d485fa6939cf0b571"
 metafile = true
