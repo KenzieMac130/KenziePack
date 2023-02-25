@@ -5,6 +5,7 @@ ServerEvents.recipes(event => {
 	event.replaceInput({}, 'additionaladditions:rope', 'farmersdelight:rope')
 	event.remove({ output: 'campanion:rope' })
 	event.remove({ output: 'additionaladditions:rope' })
+	event.remove({ output: "additionaladditions:fried_egg" })
 	event.remove({ output: 'campanion:rope_bridge_planks' })
 	event.remove({ output: 'campanion:rope_bridge_post' })
 	event.remove({ output: "terrarianslimes:glowstick" })
@@ -38,6 +39,35 @@ ServerEvents.recipes(event => {
 	event.remove({ output: 'campanion:hiking_pack' })
 
 	event.remove({ output: "inmis:frayed_backpack" })
+
+	event.remove({ output: "expandeddelight:salt_rock" })
+	event.remove({ output: "expandeddelight:ground_salt" })
+	event.replaceInput({}, 'expandeddelight:ground_salt', 'bewitchment:salt')
+	event.remove({ output: "expandeddelight:mac_and_cheese" })
+	event.custom({
+		"type": "farmersdelight:cooking",
+		"ingredients": [
+			{
+			"tag": "c:milk"
+			},
+			{
+			"item": "expandeddelight:cheese_slice"
+			},
+			{
+			"tag": "c:pasta"
+			},
+			{
+			"item": "bewitchment:salt"
+			}
+		],
+		"result": {
+			"item": "expandeddelight:mac_and_cheese"
+		},
+		"container": {
+			"item": "minecraft:bowl"
+		},
+		"cookingtime": 200
+	})
 
 	event.shaped(
 		Item.of('inmis:frayed_backpack', 1),

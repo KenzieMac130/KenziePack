@@ -439,7 +439,7 @@ hash = "02d6feb3afe1d9c96e137f8baaa71de982f1af0a2b37fbcba73f34ee59ebbd4d"
 
 [[files]]
 file = "kubejs/client_scripts/script.js"
-hash = "94013993136356b39a977ea2f977e9bac2b72497ba106dff5c07b665fc829070"
+hash = "200d8bf18f335e99f5203083b31cc70fb5171000279a56d5ea2791b30b9565e9"
 
 [[files]]
 file = "kubejs/config/client.properties"
@@ -463,11 +463,11 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "kubejs/server_scripts/script.js"
-hash = "0aa032c017a541c668361570309662cc5fd328b9868960565ebbf37b599fc237"
+hash = "6ca1e803c6675ce262ddad228d5db1fc74d580b9643d37026f531ac3cabe1a14"
 
 [[files]]
 file = "kubejs/startup_scripts/script.js"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+hash = "6b39cc11e46b8fa96a8d63f2baab44616fd9ee7c79759b937341b8ad034c9298"
 
 [[files]]
 file = "mods/ad-astra.pw.toml"
@@ -620,6 +620,11 @@ hash = "3a39f2516623bc4ab7feccdabbe4fa35633c2531111a5436a670c902056d9d6c"
 metafile = true
 
 [[files]]
+file = "mods/ctov-farmers-delight-compat.pw.toml"
+hash = "ca49eb80ed805480d1b4fa4dd81efe4fc83f52428b1d30a4b9f3327b9bc009f7"
+metafile = true
+
+[[files]]
 file = "mods/cull-less-leaves.pw.toml"
 hash = "c06e098c6d6eda6da4492e4a8dff1796e6081bbd30f487ffb89e1ed3c485e805"
 metafile = true
@@ -652,6 +657,11 @@ metafile = true
 [[files]]
 file = "mods/emerald-geodes.pw.toml"
 hash = "4726b912f30d2344b412c3204204a8f740bc7605b0c715fe8a3673b6be5ee949"
+metafile = true
+
+[[files]]
+file = "mods/expanded-delight.pw.toml"
+hash = "26ce46903b0f7c33c0d54f20967ded566fbc9910d72151810b2eb7e475077c7b"
 metafile = true
 
 [[files]]

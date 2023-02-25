@@ -3,6 +3,7 @@
 REIEvents.hide("item", event => {
 	event.hide("campanion:rope")
 	event.hide("additionaladditions:rope")
+	event.hide("additionaladditions:fried_egg")
 	event.hide("campanion:rope_bridge_planks")
 	event.hide("campanion:rope_bridge_post")
 	event.hide("bewitchment:waystone")
@@ -16,4 +17,8 @@ REIEvents.hide("item", event => {
 	event.hide("bewitchment:elder_broom")
 	event.hide("bewitchment:juniper_broom")
 	event.hide("bwplus:yew_broom")
+	event.hide('expandeddelight:salt_rock')
+	event.hide('expandeddelight:ground_salt')
+	event.hide('expandeddelight:salt_ore')
+	event.hide('expandeddelight:deepslate_salt_ore')
 })
