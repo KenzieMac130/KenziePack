@@ -80,7 +80,14 @@ Working computers
 
 [Lua Script Tutorials](http://lua-users.org/wiki/TutorialDirectory)
 
-[Visual Studio Code Extension](https://marketplace.visualstudio.com/items?itemName=lemmmy.computercraft-extension-pack)
+[Visual Studio Code Setup Video](https://www.youtube.com/watch?v=HtafiCaT6CI)
+
+* [Emulator](https://www.craftos-pc.cc/)
+
+* [Language Extension](https://marketplace.visualstudio.com/items?itemName=lemmmy.computercraft-extension-pack)
+
+* [Live Development Extension](https://marketplace.visualstudio.com/items?itemName=jackmacwindows.craftos-pc)
+
 
 Type `help` in the computer for more info.
 
