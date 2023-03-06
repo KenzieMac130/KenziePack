@@ -76,6 +76,8 @@ Working computers
 
 [Video Tutorials](https://youtube.com/playlist?list=PLaiPn4ewcbkHYflo2jl0OuNaHK6Mj-koG)
 
+[Let's Play Series](https://youtube.com/playlist?list=PLwJ1NkMkbbHR53Rva3WS2gcmS-1h4KdXO)
+
 [Lua Script Reference](https://www.lua.org/manual/5.1/)
 
 [Lua Script Tutorials](http://lua-users.org/wiki/TutorialDirectory)
