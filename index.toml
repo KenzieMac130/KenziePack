@@ -580,6 +580,11 @@ hash = "6e8faa4779dca8bafd4cc91cad8f7fe425f6d3d08511463466c6c13b8ffa55dd"
 metafile = true
 
 [[files]]
+file = "mods/cccbridge.pw.toml"
+hash = "72a444170f6963bc57c323f98d01d22bdcd400be26a2bfd1d3d02ea34ad096de"
+metafile = true
+
+[[files]]
 file = "mods/charmonium.pw.toml"
 hash = "ccc10f99cb19427bbe111efeecce5c2934a02d4294b2fedc3ef1e7fdc60771d3"
 metafile = true
