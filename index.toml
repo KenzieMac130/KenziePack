@@ -269,6 +269,10 @@ file = "config/desktop.ini"
 hash = "6093feff97dd6a2afc6391c87abf76366fd3cbd51d58e02607c0551a13355a14"
 
 [[files]]
+file = "config/elementalcreepers.json"
+hash = "b4507a3594d4d161cda0af30da179a69794573b63e42f6dba02e16814955b2fa"
+
+[[files]]
 file = "config/iris.properties"
 hash = "86aea8ed2a2a5508eb37589a3ad381bf79a9ba1178a3e3ca7398622d0d011f8c"
 
@@ -711,7 +715,7 @@ metafile = true
 
 [[files]]
 file = "mods/friends-and-foes.pw.toml"
-hash = "b4537307f5199ed64e8af3ba0f4f8ce8dfc4ce0da66fc1bf5e39943de922f581"
+hash = "ca54889562bc646cf696d94861ef83b295498465cfd9f0022bff3ef3de509662"
 metafile = true
 
 [[files]]
