@@ -1,0 +1,13 @@
+name = "MS Painted"
+filename = "MS Painted for 1.19.X (v2.8.1).zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/1nLC7eUa/versions/5yLa4rHs/MS%20Painted%20for%201.19.X%20%28v2.8.1%29.zip"
+hash-format = "sha1"
+hash = "8589256bb983160cc19eb6d271646a75133d5530"
+
+[update]
+[update.modrinth]
+mod-id = "1nLC7eUa"
+version = "5yLa4rHs"

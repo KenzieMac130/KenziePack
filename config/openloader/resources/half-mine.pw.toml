@@ -1,0 +1,13 @@
+name = "Half-Mine"
+filename = "Half-Mine.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/o4UrP44D/versions/FsRDxk8I/Half-Mine.zip"
+hash-format = "sha1"
+hash = "4b890c5ae8b44bbe2b0af6f4e6167201b0d153d2"
+
+[update]
+[update.modrinth]
+mod-id = "o4UrP44D"
+version = "FsRDxk8I"

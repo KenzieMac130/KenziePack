@@ -1,0 +1,18 @@
+{
+ "format_version": 2,
+ "header": {
+   "description": "Assets for Kenzie Pack April Fools",
+   "name": "April Fools",
+   "uuid":"162302399-0798-466f-86b3-5abb37209d4f",
+   "version": [1, 0, 0],
+   "min_engine_version": [1, 16, 0]
+  },
+ "modules": [
+   {
+     "description": "Assets for Kenzie Pack April Fools",
+     "type": "resources",
+     "uuid": "cc4bfaab-e116-428e-82b1-6e24ccb58583",
+     "version": [1, 0, 0]
+   }
+ ]
+}
