@@ -314,47 +314,6 @@ hash = "2443c924b27db3c3d639e113efc9e8247b9a5d46650a911e64459498ce2f1446"
 metafile = true
 
 [[files]]
-file = "config/openloader/resources/aprilfool/assets/minecraft/texts/splashes.txt"
-hash = "297c9df72f9a7f47fe25957e9e7d2c6487134c3bba87a968dfff1e9823ae9c00"
-
-[[files]]
-file = "config/openloader/resources/aprilfool/assets/minecraft/textures/gui/title/background/panorama_0.png"
-hash = "24c232eb7e4291f9e885be1ff3fdd0e098006e6b8420c0da50467c6f886ea093"
-
-[[files]]
-file = "config/openloader/resources/aprilfool/assets/minecraft/textures/gui/title/background/panorama_1.png"
-hash = "24c232eb7e4291f9e885be1ff3fdd0e098006e6b8420c0da50467c6f886ea093"
-
-[[files]]
-file = "config/openloader/resources/aprilfool/assets/minecraft/textures/gui/title/background/panorama_2.png"
-hash = "24c232eb7e4291f9e885be1ff3fdd0e098006e6b8420c0da50467c6f886ea093"
-
-[[files]]
-file = "config/openloader/resources/aprilfool/assets/minecraft/textures/gui/title/background/panorama_3.png"
-hash = "24c232eb7e4291f9e885be1ff3fdd0e098006e6b8420c0da50467c6f886ea093"
-
-[[files]]
-file = "config/openloader/resources/aprilfool/assets/minecraft/textures/gui/title/background/panorama_4.png"
-hash = "24c232eb7e4291f9e885be1ff3fdd0e098006e6b8420c0da50467c6f886ea093"
-
-[[files]]
-file = "config/openloader/resources/aprilfool/assets/minecraft/textures/gui/title/background/panorama_5.png"
-hash = "24c232eb7e4291f9e885be1ff3fdd0e098006e6b8420c0da50467c6f886ea093"
-
-[[files]]
-file = "config/openloader/resources/aprilfool/manifest.json"
-hash = "9841097b3830dacf10b0276d5f7eb9f54aac33f1391c23fe1f90724be49e0b9a"
-
-[[files]]
-file = "config/openloader/resources/aprilfool/pack.mcmeta"
-hash = "9b14554718f4063e41cf866fe26b40fa54a4a727815087c8c98312987849f2c9"
-
-[[files]]
-file = "config/openloader/resources/half-mine.pw.toml"
-hash = "79bdab0ca8dde39a0b85adbb4400b6a5ca65c8bea4bd8f3e55629e076291149b"
-metafile = true
-
-[[files]]
 file = "config/openloader/resources/kenziepack/assets/itemswapper/itemgroups/list/buckets.json"
 hash = "9e0b73175244288cad01acf7f0da3fb6b8656598e29d03a7d58a69366537a087"
 
@@ -457,16 +416,6 @@ hash = "4666afc874e0c523d23e2da43cec00d78c76b8fda98a1f3307853fdb93973368"
 [[files]]
 file = "config/openloader/resources/kenziepack/pack.mcmeta"
 hash = "9b14554718f4063e41cf866fe26b40fa54a4a727815087c8c98312987849f2c9"
-
-[[files]]
-file = "config/openloader/resources/ms-painted.pw.toml"
-hash = "6a6766801cb13081106b34f81bcef7f6b89863f25166c04d00775d3cd368c3b5"
-metafile = true
-
-[[files]]
-file = "config/openloader/resources/skulls-on-hazards.pw.toml"
-hash = "7ece46a637daa2748f8c4d5479a42bf38e413ddce9e06efa70283027937ad817"
-metafile = true
 
 [[files]]
 file = "config/smoothswapping.json"
@@ -640,11 +589,6 @@ hash = "72a444170f6963bc57c323f98d01d22bdcd400be26a2bfd1d3d02ea34ad096de"
 metafile = true
 
 [[files]]
-file = "mods/cem.pw.toml"
-hash = "7f63923d2240d002b0d113eec8a2fea4869837c09386faed9e1a4d096552d594"
-metafile = true
-
-[[files]]
 file = "mods/charmonium.pw.toml"
 hash = "ccc10f99cb19427bbe111efeecce5c2934a02d4294b2fedc3ef1e7fdc60771d3"
 metafile = true
@@ -657,11 +601,6 @@ metafile = true
 [[files]]
 file = "mods/collective.pw.toml"
 hash = "9fef28e9fc4a63280128c66c9f7c412b1fe80e56f7d69b94d00b001f5fb39735"
-metafile = true
-
-[[files]]
-file = "mods/continuity.pw.toml"
-hash = "984741a3b4d5612df37b81d7349dd1f130257eaf7d94d95b72ce43fff9411885"
 metafile = true
 
 [[files]]
